@@ -1,0 +1,4825 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 20
+/Kids [ 4 0 R 10 0 R 19 0 R 23 0 R 27 0 R 31 0 R 35 0 R 39 0 R 43 0 R 47 0 R 51 0 R 55 0 R 59 0 R 63 0 R 67 0 R 71 0 R 75 0 R 79 0 R 83 0 R 87 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 3213
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.094118 .192157 .32549 rg
+n 0 705.8268 595.2756 136.063 re f*
+1 1 1 rg
+BT /F2 19 Tf 22.8 TL ET
+BT 1 0 0 1 123.4648 779.5276 Tm (PYTHON ACTIVITY-BASED LEARNING) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 202.8673 751.1811 Tm (Another Set: 10 Different Case Studies) Tj T* ET
+q
+1 0 0 1 127.5591 600.9449 cm
+q
+.94902 .960784 .976471 rg
+n 0 113.3858 340.1575 -113.3858 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 92.2126 cm
+q
+.094118 .192157 .32549 rg
+BT 1 0 0 1 0 4 Tm /F2 10 Tf 14 TL (Student Name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 137.5591 92.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (Amrutha Yanaganti) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 63.86614 cm
+q
+.094118 .192157 .32549 rg
+BT 1 0 0 1 0 4 Tm /F2 10 Tf 14 TL (Roll Number) Tj T* ET
+Q
+Q
+q
+1 0 0 1 137.5591 63.86614 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (26000923) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 35.51969 cm
+q
+.094118 .192157 .32549 rg
+BT 1 0 0 1 0 4 Tm /F2 10 Tf 14 TL (Branch) Tj T* ET
+Q
+Q
+q
+1 0 0 1 137.5591 35.51969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (CSM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 7.173228 cm
+q
+.094118 .192157 .32549 rg
+BT 1 0 0 1 0 4 Tm /F2 10 Tf 14 TL (Section) Tj T* ET
+Q
+Q
+q
+1 0 0 1 137.5591 7.173228 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (2) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.823529 .854902 .898039 RG
+.5 w
+n 0 113.3858 m 340.1575 113.3858 l S
+n 0 0 m 340.1575 0 l S
+n 0 0 m 0 113.3858 l S
+n 340.1575 0 m 340.1575 113.3858 l S
+n 0 85.03937 m 340.1575 85.03937 l S
+n 0 56.69291 m 340.1575 56.69291 l S
+n 0 28.34646 m 340.1575 28.34646 l S
+n 127.5591 0 m 127.5591 113.3858 l S
+Q
+Q
+Q
+.094118 .192157 .32549 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 70.86614 524.4094 Tm (Selected Case Studies) Tj T* ET
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 82.20472 490.3937 Tm (1. Student Performance Trend Analysis) Tj T* ET
+BT 1 0 0 1 82.20472 467.7165 Tm (2. Personal Shopping Budget Planner) Tj T* ET
+BT 1 0 0 1 82.20472 445.0394 Tm (3. Repeated Word and Phrase Detection) Tj T* ET
+BT 1 0 0 1 82.20472 422.3622 Tm (4. Tuple-Based Employee Shift Conflict Detection) Tj T* ET
+BT 1 0 0 1 82.20472 399.685 Tm (5. Food Waste Monitoring System) Tj T* ET
+BT 1 0 0 1 82.20472 377.0079 Tm (6. Library Borrowing and Fine Reconciliation) Tj T* ET
+BT 1 0 0 1 82.20472 354.3307 Tm (7. Manufacturing Quality Control Matrix) Tj T* ET
+BT 1 0 0 1 82.20472 331.6535 Tm (8. Multi-Branch Sales Matrix Comparison) Tj T* ET
+BT 1 0 0 1 82.20472 308.9764 Tm (9. Weekly Electricity Consumption Analysis) Tj T* ET
+BT 1 0 0 1 82.20472 286.2992 Tm (10. Campus Transport Capacity Planner) Tj T* ET
+.333333 .333333 .333333 rg
+BT /F3 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 70.86614 68.0315 Tm (This is a separate set of examples and avoids repeating the ten topics from the previous PDF.) Tj T* ET
+BT 1 0 0 1 70.86614 53.85827 Tm (Rules and values are illustrative academic assumptions.) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 172.9058 28.34646 Tm (Python Activity-Based Learning | Amrutha Yanaganti | CSM-2 | Page 1) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.94902 0.960784 0.976471 rg
+n
+255 660 75 22 re
+f*
+0 0 0 rg
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 265.1 666.7 Tm
+(26000919) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/Contents 11 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 12 0 R
+/F1-0 13 0 R
+/F1-1 14 0 R
+/F2 15 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 6473
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.5 Tf 9 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 45.35433 25.51181 Tm (Python Activity-Based Learning | Neha Jonnalagadda | CSM-2) Tj T* ET
+BT 1 0 0 1 526.1538 25.51181 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 775.7874 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (1. Student Performance Trend Analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 754.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Problem Statement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 726.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL -0.114475 Tw (\177 Analyse a student's marks across multiple tests, calculate averages and percentage changes, and identify whether performance is) Tj T* 0 Tw (improving or declining.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 706.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Objectives) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 689.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Calculate the average mark.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 672.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Compare the first and latest test marks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 655.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Classify the performance trend.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 635.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Assumptions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 618.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Marks are percentages from 0 to 100.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 601.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 At least two test results are required.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 584.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 An increase of more than 2 marks is improving, a decrease of more than 2 is declining, otherwise performance is stable.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 564.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Algorithm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 547.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (1. Read the student's test marks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 530.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (2. Validate the number and range of marks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 513.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (3. Calculate the average, first mark, and latest mark.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 496.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (4. Compare latest and first marks using the stated threshold.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 479.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (5. Display the summary and trend.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 459.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Flowchart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 443.2874 cm
+q
+.705882 .780392 .905882 RG
+.5 w
+.964706 .972549 .984314 rg
+n -5 -5 502.5669 20.5 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8 Tf 10.5 TL (START ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Read test marks ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Validate marks ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Calculate average and change ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Classify trend ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Display summary ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( STOP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 423.2874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Pseudocode) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 318.2874 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 95 Tm /F4 7 Tf 8.5 TL (BEGIN) Tj T* (  READ marks) Tj T* (  IF fewer than 2 marks OR any mark outside 0..100:) Tj T* (    DISPLAY invalid input) Tj T* (  ELSE) Tj T* (    average = sum\(marks\) / length\(marks\)) Tj T* (    change = last mark - first mark) Tj T* (    IF change > 2: trend = IMPROVING) Tj T* (    ELSE IF change < -2: trend = DECLINING) Tj T* (    ELSE: trend = STABLE) Tj T* (    DISPLAY average, change, trend) Tj T* (END) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 298.2874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Python Source Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 133.7874 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 154.5 Tm /F4 7 Tf 8.5 TL (marks = [62, 68, 71, 78]) Tj T*  T* (if len\(marks\) < 2 or any\(m < 0 or m > 100 for m in marks\):) Tj T* (    print\("Invalid marks"\)) Tj T* (else:) Tj T* (    average = sum\(marks\) / len\(marks\)) Tj T* (    change = marks[-1] - marks[0]) Tj T*  T* (    if change > 2:) Tj T* (        trend = "IMPROVING") Tj T* (    elif change < -2:) Tj T* (        trend = "DECLINING") Tj T* (    else:) Tj T* (        trend = "STABLE") Tj T*  T* (    print\("Test marks:", marks\)) Tj T* (    print\(f"Average: {average:.2f}"\)) Tj T* (    print\("Change from first to latest:", change\)) Tj T* (    print\("Performance trend:", trend\)) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 113.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Test Cases) Tj T* ET
+Q
+Q
+q
+1 0 0 1 102.0472 62.1874 cm
+q
+.85098 .917647 .968627 rg
+n 0 48.6 391.1811 -16.2 re f*
+0 0 0 rg
+BT /F2 6.8 Tf 8.2 TL ET
+BT 1 0 0 1 6 37.8 Tm (Test Input) Tj T* ET
+BT 1 0 0 1 110.8819 37.8 Tm (Expected Result) Tj T* ET
+BT 1 0 0 1 292.2992 37.8 Tm (Purpose) Tj T* ET
+BT /F1 6.8 Tf 8.2 TL ET
+BT 1 0 0 1 6 21.6 Tm ([62, 68, 71, 78]) Tj T* ET
+BT 1 0 0 1 110.8819 21.6 Tm (Average 69.75; change +16; IMPROVING) Tj T* ET
+BT 1 0 0 1 292.2992 21.6 Tm (Improving trend) Tj T* ET
+BT 1 0 0 1 6 5.4 Tm ([80, 75, 70]) Tj T* ET
+BT 1 0 0 1 110.8819 5.4 Tm (Average 75; change -10; DECLINING) Tj T* ET
+BT 1 0 0 1 292.2992 5.4 Tm (Declining trend) Tj T* ET
+q
+1 J
+1 j
+.65098 .65098 .65098 RG
+.35 w
+n 0 48.6 m 391.1811 48.6 l S
+n 0 0 m 0 48.6 l S
+n 391.1811 0 m 391.1811 48.6 l S
+n 0 0 m 391.1811 0 l S
+n 0 32.4 m 391.1811 32.4 l S
+n 0 16.2 m 391.1811 16.2 l S
+n 104.8819 0 m 104.8819 48.6 l S
+n 286.2992 0 m 286.2992 48.6 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 25 re
+f*
+0.333333 0.333333 0.333333 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 30 14 Tm
+(Python Activity\055Based Learning \174 Amrutha Yanaganti \174 CSM\0552) Tj
+T*
+ET
+BT
+1 0 0 1 539.9236 14 Tm
+(Page 2) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 21 595.2756 15 re
+f*
+Q
+
+
+endstream
+endobj
+12 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+16 0 obj
+<<
+/BaseFont /Symbol
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+17 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/BaseFont /ZapfDingbats
+/Name /F5
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+19 0 obj
+<<
+/Contents 20 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 12 0 R
+/F1-0 21 0 R
+/F1-1 22 0 R
+/F2 15 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 1824
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.5 Tf 9 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 45.35433 25.51181 Tm (Python Activity-Based Learning | Neha Jonnalagadda | CSM-2) Tj T* ET
+BT 1 0 0 1 526.1538 25.51181 Tm (Page 3) Tj T* ET
+Q
+q
+1 0 0 1 102.0472 762.3874 cm
+q
+.85098 .917647 .968627 rg
+n 0 32.4 391.1811 -16.2 re f*
+0 0 0 rg
+BT /F2 6.8 Tf 8.2 TL ET
+BT 1 0 0 1 6 21.6 Tm (Test Input) Tj T* ET
+BT 1 0 0 1 110.8819 21.6 Tm (Expected Result) Tj T* ET
+BT 1 0 0 1 292.2992 21.6 Tm (Purpose) Tj T* ET
+BT /F1 6.8 Tf 8.2 TL ET
+BT 1 0 0 1 6 5.4 Tm ([70, 71, 71]) Tj T* ET
+BT 1 0 0 1 110.8819 5.4 Tm (Change +1; STABLE) Tj T* ET
+BT 1 0 0 1 292.2992 5.4 Tm (Stable trend) Tj T* ET
+q
+1 J
+1 j
+.65098 .65098 .65098 RG
+.35 w
+n 0 32.4 m 391.1811 32.4 l S
+n 0 16.2 m 0 32.4 l S
+n 0 0 m 0 16.2 l S
+n 391.1811 16.2 m 391.1811 32.4 l S
+n 391.1811 0 m 391.1811 16.2 l S
+n 0 0 m 391.1811 0 l S
+n 0 16.2 m 391.1811 16.2 l S
+n 104.8819 16.2 m 104.8819 32.4 l S
+n 286.2992 16.2 m 286.2992 32.4 l S
+n 104.8819 0 m 104.8819 16.2 l S
+n 286.2992 0 m 286.2992 16.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 742.3874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 725.3874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (The program uses lists and simple calculations to summarize test performance and identify a clear trend.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 25 re
+f*
+0.333333 0.333333 0.333333 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 30 14 Tm
+(Python Activity\055Based Learning \174 Amrutha Yanaganti \174 CSM\0552) Tj
+T*
+ET
+BT
+1 0 0 1 539.9236 14 Tm
+(Page 3) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 21 595.2756 15 re
+f*
+Q
+
+
+endstream
+endobj
+21 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+22 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+23 0 obj
+<<
+/Contents 24 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 12 0 R
+/F1-0 25 0 R
+/F1-1 26 0 R
+/F2 15 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 5602
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.5 Tf 9 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 45.35433 25.51181 Tm (Python Activity-Based Learning | Neha Jonnalagadda | CSM-2) Tj T* ET
+BT 1 0 0 1 526.1538 25.51181 Tm (Page 4) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 775.7874 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (2. Personal Shopping Budget Planner) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 754.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Problem Statement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 726.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (\177 Calculate the cost of a shopping list, compare it with a fixed budget, and report the remaining balance or amount exceeding the) Tj T* (budget.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 706.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Objectives) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 689.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Calculate the total cost of selected items.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 672.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Compare the total with the available budget.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 655.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Display savings or the amount over budget.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 635.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Assumptions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 618.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Prices and quantities cannot be negative.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 601.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 The sample budget is ) Tj /F5 8.5 Tf 11 TL (n) Tj /F1 8.5 Tf 11 TL (3,000.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 584.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 The total is the sum of each item's price multiplied by quantity.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 564.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Algorithm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 547.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (1. Set the budget and item records.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 530.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (2. Validate prices and quantities.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 513.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (3. Calculate each item's cost and the total.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 496.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (4. Subtract total from budget.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 479.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (5. Display whether the shopping plan is within budget.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 459.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Flowchart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 432.7874 cm
+q
+.705882 .780392 .905882 RG
+.5 w
+.964706 .972549 .984314 rg
+n -5 -5 502.5669 31 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 8 Tf 10.5 TL (START ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Set budget and items ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Validate values ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Calculate item totals ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Compare total with budget ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Display balance/status ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL T* (STOP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 412.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Pseudocode) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 333.2874 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 69.5 Tm /F4 7 Tf 8.5 TL (BEGIN) Tj T* (  total = 0) Tj T* (  FOR each item) Tj T* (    IF price < 0 OR quantity < 0: DISPLAY invalid) Tj T* (    ELSE total = total + price * quantity) Tj T* (  balance = budget - total) Tj T* (  IF balance >= 0: DISPLAY within budget and balance) Tj T* (  ELSE DISPLAY over-budget amount) Tj T* (END) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 313.2874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Python Source Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 89.2874 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 214 Tm /F4 7 Tf 8.5 TL (budget = 3000) Tj T* (items = [) Tj T* (    \("Shoes", 1200, 1\),) Tj T* (    \("Notebook", 80, 4\),) Tj T* (    \("Headphones", 900, 1\),) Tj T* (    \("Water bottle", 250, 2\)) Tj T* (]) Tj T* (total = 0) Tj T* (valid = True) Tj T*  T* (for name, price, quantity in items:) Tj T* (    if price < 0 or quantity < 0:) Tj T* (        print\("Invalid item:", name\)) Tj T* (        valid = False) Tj T* (    else:) Tj T* (        cost = price * quantity) Tj T* (        total += cost) Tj T* (        print\(f"{name}: Rs.{cost}"\)) Tj T*  T* (if valid:) Tj T* (    balance = budget - total) Tj T* (    print\("Total shopping cost: Rs.", total\)) Tj T* (    if balance >= 0:) Tj T* (        print\("Within budget. Remaining: Rs.", balance\)) Tj T* (    else:) Tj T* (        print\("Over budget by: Rs.", -balance\)) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 69.2874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Test Cases) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 25 re
+f*
+0.333333 0.333333 0.333333 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 30 14 Tm
+(Python Activity\055Based Learning \174 Amrutha Yanaganti \174 CSM\0552) Tj
+T*
+ET
+BT
+1 0 0 1 539.9236 14 Tm
+(Page 4) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 21 595.2756 15 re
+f*
+Q
+
+
+endstream
+endobj
+25 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+26 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+27 0 obj
+<<
+/Contents 28 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 12 0 R
+/F1-0 29 0 R
+/F1-1 30 0 R
+/F2 15 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+28 0 obj
+<<
+/Length 2410
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.5 Tf 9 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 45.35433 25.51181 Tm (Python Activity-Based Learning | Neha Jonnalagadda | CSM-2) Tj T* ET
+BT 1 0 0 1 526.1538 25.51181 Tm (Page 5) Tj T* ET
+Q
+q
+1 0 0 1 102.0472 729.9874 cm
+q
+.85098 .917647 .968627 rg
+n 0 64.8 391.1811 -16.2 re f*
+0 0 0 rg
+BT /F2 6.8 Tf 8.2 TL ET
+BT 1 0 0 1 6 54 Tm (Test Input) Tj T* ET
+BT 1 0 0 1 110.8819 54 Tm (Expected Result) Tj T* ET
+BT 1 0 0 1 292.2992 54 Tm (Purpose) Tj T* ET
+BT /F1 6.8 Tf 8.2 TL ET
+BT 1 0 0 1 6 37.8 Tm (Budget ) Tj /F5 6.8 Tf 8.2 TL (n) Tj /F1 6.8 Tf 8.2 TL (3,000; total ) Tj /F5 6.8 Tf 8.2 TL (n) Tj /F1 6.8 Tf 8.2 TL (2,960) Tj T* ET
+BT 1 0 0 1 110.8819 37.8 Tm (Within budget; ) Tj /F5 6.8 Tf 8.2 TL (n) Tj /F1 6.8 Tf 8.2 TL (40 remaining) Tj T* ET
+BT 1 0 0 1 292.2992 37.8 Tm (Within-budget calculation) Tj T* ET
+BT 1 0 0 1 6 21.6 Tm (Budget ) Tj /F5 6.8 Tf 8.2 TL (n) Tj /F1 6.8 Tf 8.2 TL (3,000; total ) Tj /F5 6.8 Tf 8.2 TL (n) Tj /F1 6.8 Tf 8.2 TL (3,500) Tj T* ET
+BT 1 0 0 1 110.8819 21.6 Tm (Over budget by ) Tj /F5 6.8 Tf 8.2 TL (n) Tj /F1 6.8 Tf 8.2 TL (500) Tj T* ET
+BT 1 0 0 1 292.2992 21.6 Tm (Over-budget calculation) Tj T* ET
+BT 1 0 0 1 6 5.4 Tm (Negative quantity) Tj T* ET
+BT 1 0 0 1 110.8819 5.4 Tm (Invalid item) Tj T* ET
+BT 1 0 0 1 292.2992 5.4 Tm (Validation) Tj T* ET
+q
+1 J
+1 j
+.65098 .65098 .65098 RG
+.35 w
+n 0 64.8 m 391.1811 64.8 l S
+n 0 0 m 391.1811 0 l S
+n 0 0 m 0 64.8 l S
+n 391.1811 0 m 391.1811 64.8 l S
+n 0 48.6 m 391.1811 48.6 l S
+n 0 32.4 m 391.1811 32.4 l S
+n 0 16.2 m 391.1811 16.2 l S
+n 104.8819 0 m 104.8819 64.8 l S
+n 286.2992 0 m 286.2992 64.8 l S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 709.9874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 692.9874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (The planner helps estimate shopping costs and compare expenses against a budget using loops and arithmetic.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 25 re
+f*
+0.333333 0.333333 0.333333 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 30 14 Tm
+(Python Activity\055Based Learning \174 Amrutha Yanaganti \174 CSM\0552) Tj
+T*
+ET
+BT
+1 0 0 1 539.9236 14 Tm
+(Page 5) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 21 595.2756 15 re
+f*
+Q
+
+
+endstream
+endobj
+29 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+30 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+31 0 obj
+<<
+/Contents 32 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 12 0 R
+/F1-0 33 0 R
+/F1-1 34 0 R
+/F2 15 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+32 0 obj
+<<
+/Length 6468
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.5 Tf 9 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 45.35433 25.51181 Tm (Python Activity-Based Learning | Neha Jonnalagadda | CSM-2) Tj T* ET
+BT 1 0 0 1 526.1538 25.51181 Tm (Page 6) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 775.7874 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (3. Repeated Word and Phrase Detection) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 754.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Problem Statement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 726.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (\177 Analyse a sentence or paragraph, count word occurrences without case sensitivity, and display words that appear more than) Tj T* (once.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 706.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Objectives) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 689.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Normalize text to lowercase.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 672.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Count word frequencies.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 655.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Identify repeated words.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 635.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Assumptions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 618.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Words are separated by spaces or punctuation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 601.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 For this simple program, common punctuation is removed before counting.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 584.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 The program reports each repeated word once with its frequency.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 564.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Algorithm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 547.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (1. Read the text and convert it to lowercase.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 530.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (2. Replace common punctuation with spaces.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 513.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (3. Split the text into words.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 496.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (4. Count each word using a dictionary.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 479.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (5. Display words whose counts exceed one.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 459.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Flowchart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 443.2874 cm
+q
+.705882 .780392 .905882 RG
+.5 w
+.964706 .972549 .984314 rg
+n -5 -5 502.5669 20.5 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8 Tf 10.5 TL (START ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Read text ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Normalize case and punctuation ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Split into words ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Count occurrences ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Display repeated words ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( STOP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 423.2874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Pseudocode) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 326.7874 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 86.5 Tm /F4 7 Tf 8.5 TL (BEGIN) Tj T* (  READ text) Tj T* (  text = lowercase\(text\)) Tj T* (  replace punctuation with spaces) Tj T* (  words = split\(text\)) Tj T* (  counts = empty dictionary) Tj T* (  FOR each word in words:) Tj T* (    counts[word] = counts.get\(word, 0\) + 1) Tj T* (  FOR each word and count:) Tj T* (    IF count > 1: DISPLAY word and count) Tj T* (END) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 306.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Python Source Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 142.2874 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 154.5 Tm /F4 7 Tf 8.5 TL (text = "Python is easy, and Python is useful.") Tj T* (clean_text = text.lower\(\)) Tj T* (for mark in ".,!?;:":) Tj T* (    clean_text = clean_text.replace\(mark, " "\)) Tj T*  T* (words = clean_text.split\(\)) Tj T* (counts = {}) Tj T*  T* (for word in words:) Tj T* (    counts[word] = counts.get\(word, 0\) + 1) Tj T*  T* (print\("Word frequencies:"\)) Tj T* (for word, count in counts.items\(\):) Tj T* (    print\(word, ":", count\)) Tj T*  T* (print\("Repeated words:"\)) Tj T* (for word, count in counts.items\(\):) Tj T* (    if count > 1:) Tj T* (        print\(word, "appears", count, "times"\)) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 122.2874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Test Cases) Tj T* ET
+Q
+Q
+q
+1 0 0 1 102.0472 54.4874 cm
+q
+.85098 .917647 .968627 rg
+n 0 64.8 391.1811 -16.2 re f*
+0 0 0 rg
+BT /F2 6.8 Tf 8.2 TL ET
+BT 1 0 0 1 6 54 Tm (Test Input) Tj T* ET
+BT 1 0 0 1 110.8819 54 Tm (Expected Result) Tj T* ET
+BT 1 0 0 1 292.2992 54 Tm (Purpose) Tj T* ET
+BT /F1 6.8 Tf 8.2 TL ET
+BT 1 0 0 1 6 37.8 Tm (\223Python is easy, and Python is useful.\224) Tj T* ET
+BT 1 0 0 1 110.8819 37.8 Tm (python: 2; is: 2) Tj T* ET
+BT 1 0 0 1 292.2992 37.8 Tm (Case-insensitive counting) Tj T* ET
+BT 1 0 0 1 6 21.6 Tm (\223Hello world\224) Tj T* ET
+BT 1 0 0 1 110.8819 21.6 Tm (No repeated words) Tj T* ET
+BT 1 0 0 1 292.2992 21.6 Tm (No duplicates) Tj T* ET
+BT 1 0 0 1 6 5.4 Tm (Empty text) Tj T* ET
+BT 1 0 0 1 110.8819 5.4 Tm (No word counts) Tj T* ET
+BT 1 0 0 1 292.2992 5.4 Tm (Empty input) Tj T* ET
+q
+1 J
+1 j
+.65098 .65098 .65098 RG
+.35 w
+n 0 64.8 m 391.1811 64.8 l S
+n 0 0 m 391.1811 0 l S
+n 0 0 m 0 64.8 l S
+n 391.1811 0 m 391.1811 64.8 l S
+n 0 48.6 m 391.1811 48.6 l S
+n 0 32.4 m 391.1811 32.4 l S
+n 0 16.2 m 391.1811 16.2 l S
+n 104.8819 0 m 104.8819 64.8 l S
+n 286.2992 0 m 286.2992 64.8 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 25 re
+f*
+0.333333 0.333333 0.333333 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 30 14 Tm
+(Python Activity\055Based Learning \174 Amrutha Yanaganti \174 CSM\0552) Tj
+T*
+ET
+BT
+1 0 0 1 539.9236 14 Tm
+(Page 6) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 21 595.2756 15 re
+f*
+Q
+
+
+endstream
+endobj
+33 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+34 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+35 0 obj
+<<
+/Contents 36 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 12 0 R
+/F1-0 37 0 R
+/F1-1 38 0 R
+/F2 15 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+36 0 obj
+<<
+/Length 1016
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.5 Tf 9 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 45.35433 25.51181 Tm (Python Activity-Based Learning | Neha Jonnalagadda | CSM-2) Tj T* ET
+BT 1 0 0 1 526.1538 25.51181 Tm (Page 7) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 781.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 764.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (The program demonstrates string processing, loops, dictionaries, and frequency counting to detect repeated words.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 25 re
+f*
+0.333333 0.333333 0.333333 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 30 14 Tm
+(Python Activity\055Based Learning \174 Amrutha Yanaganti \174 CSM\0552) Tj
+T*
+ET
+BT
+1 0 0 1 539.9236 14 Tm
+(Page 7) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 21 595.2756 15 re
+f*
+Q
+
+
+endstream
+endobj
+37 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+38 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+39 0 obj
+<<
+/Contents 40 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 12 0 R
+/F1-0 41 0 R
+/F1-1 42 0 R
+/F2 15 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+40 0 obj
+<<
+/Length 6760
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.5 Tf 9 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 45.35433 25.51181 Tm (Python Activity-Based Learning | Neha Jonnalagadda | CSM-2) Tj T* ET
+BT 1 0 0 1 526.1538 25.51181 Tm (Page 8) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 775.7874 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (4. Tuple-Based Employee Shift Conflict Detection) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 754.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Problem Statement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 737.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Store employee shift records as tuples and identify shifts assigned to the same employee that overlap in time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 717.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Objectives) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 700.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Represent shift records using tuples.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 683.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Compare time intervals for each employee.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 666.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Report overlapping assignments.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 646.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Assumptions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 629.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Each shift is stored as \(employee, start_hour, end_hour\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 612.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Times use a 24-hour numeric scale and each shift starts before it ends.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 595.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Two shifts overlap when the later start time is earlier than the earlier end time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 575.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Algorithm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 558.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (1. Store all shifts in a list of tuples.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 541.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (2. Compare each pair of shifts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 524.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (3. Check whether the employee names match.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 507.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (4. Check whether their time intervals overlap.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 490.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (5. Display any conflicts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 470.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Flowchart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 454.2874 cm
+q
+.705882 .780392 .905882 RG
+.5 w
+.964706 .972549 .984314 rg
+n -5 -5 502.5669 20.5 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8 Tf 10.5 TL (START ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Read tuple shift records ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Compare each pair ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Same employee and overlapping times? ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Report conflict ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( STOP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 434.2874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Pseudocode) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 371.7874 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 52.5 Tm /F4 7 Tf 8.5 TL (BEGIN) Tj T* (  FOR i from 0 to number_of_shifts - 1) Tj T* (    FOR j from i + 1 to number_of_shifts - 1) Tj T* (      unpack shift i and shift j) Tj T* (      IF same employee AND start1 < end2 AND start2 < end1:) Tj T* (        DISPLAY conflict) Tj T* (END) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 351.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Python Source Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 161.7874 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 180 Tm /F4 7 Tf 8.5 TL (shifts = [) Tj T* (    \("Asha", 9, 13\),) Tj T* (    \("Bharat", 10, 14\),) Tj T* (    \("Asha", 12, 16\),) Tj T* (    \("Charan", 14, 18\)) Tj T* (]) Tj T* (conflict_found = False) Tj T*  T* (for i in range\(len\(shifts\)\):) Tj T* (    name1, start1, end1 = shifts[i]) Tj T* (    for j in range\(i + 1, len\(shifts\)\):) Tj T* (        name2, start2, end2 = shifts[j]) Tj T* (        if start1 >= end1 or start2 >= end2:) Tj T* (            print\("Invalid shift record"\)) Tj T* (            continue) Tj T* (        if name1 == name2 and start1 < end2 and start2 < end1:) Tj T* (            print\(f"Conflict: {name1} has shifts ") Tj T* (                  f"{start1}-{end1} and {start2}-{end2}"\)) Tj T* (            conflict_found = True) Tj T*  T* (if not conflict_found:) Tj T* (    print\("No shift conflicts found"\)) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 141.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Test Cases) Tj T* ET
+Q
+Q
+q
+1 0 0 1 102.0472 73.9874 cm
+q
+.85098 .917647 .968627 rg
+n 0 64.8 391.1811 -16.2 re f*
+0 0 0 rg
+BT /F2 6.8 Tf 8.2 TL ET
+BT 1 0 0 1 6 54 Tm (Test Input) Tj T* ET
+BT 1 0 0 1 110.8819 54 Tm (Expected Result) Tj T* ET
+BT 1 0 0 1 292.2992 54 Tm (Purpose) Tj T* ET
+BT /F1 6.8 Tf 8.2 TL ET
+BT 1 0 0 1 6 37.8 Tm (Asha 9\22613 and Asha 12\22616) Tj T* ET
+BT 1 0 0 1 110.8819 37.8 Tm (Conflict reported) Tj T* ET
+BT 1 0 0 1 292.2992 37.8 Tm (Overlapping same-employee shifts) Tj T* ET
+BT 1 0 0 1 6 21.6 Tm (Asha 9\22612 and Asha 12\22616) Tj T* ET
+BT 1 0 0 1 110.8819 21.6 Tm (No conflict) Tj T* ET
+BT 1 0 0 1 292.2992 21.6 Tm (Back-to-back shifts) Tj T* ET
+BT 1 0 0 1 6 5.4 Tm (Different employees with overlapping times) Tj T* ET
+BT 1 0 0 1 110.8819 5.4 Tm (No employee conflict) Tj T* ET
+BT 1 0 0 1 292.2992 5.4 Tm (Employee identity checked) Tj T* ET
+q
+1 J
+1 j
+.65098 .65098 .65098 RG
+.35 w
+n 0 64.8 m 391.1811 64.8 l S
+n 0 0 m 391.1811 0 l S
+n 0 0 m 0 64.8 l S
+n 391.1811 0 m 391.1811 64.8 l S
+n 0 48.6 m 391.1811 48.6 l S
+n 0 32.4 m 391.1811 32.4 l S
+n 0 16.2 m 391.1811 16.2 l S
+n 104.8819 0 m 104.8819 64.8 l S
+n 286.2992 0 m 286.2992 64.8 l S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 53.9874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Conclusion) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 25 re
+f*
+0.333333 0.333333 0.333333 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 30 14 Tm
+(Python Activity\055Based Learning \174 Amrutha Yanaganti \174 CSM\0552) Tj
+T*
+ET
+BT
+1 0 0 1 539.9236 14 Tm
+(Page 8) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 21 595.2756 15 re
+f*
+Q
+
+
+endstream
+endobj
+41 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+42 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+43 0 obj
+<<
+/Contents 44 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 12 0 R
+/F1-0 45 0 R
+/F1-1 46 0 R
+/F2 15 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+44 0 obj
+<<
+/Length 895
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.5 Tf 9 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 45.35433 25.51181 Tm (Python Activity-Based Learning | Neha Jonnalagadda | CSM-2) Tj T* ET
+BT 1 0 0 1 526.1538 25.51181 Tm (Page 9) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 783.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (The program uses tuples and nested loops to check scheduling conflicts between shifts assigned to the same employee.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 25 re
+f*
+0.333333 0.333333 0.333333 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 30 14 Tm
+(Python Activity\055Based Learning \174 Amrutha Yanaganti \174 CSM\0552) Tj
+T*
+ET
+BT
+1 0 0 1 539.9236 14 Tm
+(Page 9) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 21 595.2756 15 re
+f*
+Q
+
+
+endstream
+endobj
+45 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+46 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+47 0 obj
+<<
+/Contents 48 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 12 0 R
+/F1-0 49 0 R
+/F1-1 50 0 R
+/F2 15 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+48 0 obj
+<<
+/Length 6699
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.5 Tf 9 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 45.35433 25.51181 Tm (Python Activity-Based Learning | Neha Jonnalagadda | CSM-2) Tj T* ET
+BT 1 0 0 1 521.9838 25.51181 Tm (Page 10) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 775.7874 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (5. Food Waste Monitoring System) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 754.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Problem Statement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 726.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (\177 Compare meals prepared, meals served, and leftovers across several days, calculate wastage percentages, and identify days) Tj T* (exceeding a waste threshold.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 706.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Objectives) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 689.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Calculate leftover meals.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 672.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Calculate wastage percentage.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 655.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Flag days with high food waste.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 635.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Assumptions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 618.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Prepared meals must be greater than zero.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 601.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Meals served and leftovers cannot be negative.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 584.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 A wastage rate above 15% is flagged for review.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 564.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Algorithm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 547.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (1. Read daily meal records.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 530.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (2. Validate the quantities.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 513.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (3. Calculate leftover meals as prepared minus served when explicit leftovers are not provided.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 496.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (4. Calculate wastage percentage.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 479.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (5. Flag days above the threshold and summarize results.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 459.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Flowchart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 432.7874 cm
+q
+.705882 .780392 .905882 RG
+.5 w
+.964706 .972549 .984314 rg
+n -5 -5 502.5669 31 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 8 Tf 10.5 TL (START ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Read daily meal records ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Validate quantities ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Calculate leftovers and wastage percentage ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Compare with threshold ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL T* (Display daily report ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( STOP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 412.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Pseudocode) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 324.7874 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 78 Tm /F4 7 Tf 8.5 TL (BEGIN) Tj T* (  FOR each day, prepared, served) Tj T* (    IF prepared <= 0 OR served < 0 OR served > prepared:) Tj T* (      DISPLAY invalid record) Tj T* (    ELSE) Tj T* (      leftovers = prepared - served) Tj T* (      waste_percent = leftovers / prepared * 100) Tj T* (      DISPLAY leftovers and waste_percent) Tj T* (      IF waste_percent > 15: DISPLAY review alert) Tj T* (END) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 304.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Python Source Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 140.2874 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 154.5 Tm /F4 7 Tf 8.5 TL (daily_meals = [) Tj T* (    \("Monday", 200, 180\),) Tj T* (    \("Tuesday", 220, 170\),) Tj T* (    \("Wednesday", 180, 175\),) Tj T* (    \("Thursday", 210, 185\)) Tj T* (]) Tj T* (threshold = 15) Tj T*  T* (for day, prepared, served in daily_meals:) Tj T* (    if prepared <= 0 or served < 0 or served > prepared:) Tj T* (        print\(day, "- Invalid meal data"\)) Tj T* (        continue) Tj T*  T* (    leftovers = prepared - served) Tj T* (    waste = leftovers / prepared * 100) Tj T* (    print\(f"{day}: prepared={prepared}, served={served}, ") Tj T* (          f"leftovers={leftovers}, waste={waste:.2f}%"\)) Tj T* (    if waste > threshold:) Tj T* (        print\("  Review alert: wastage exceeds 15%"\)) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 120.2874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Test Cases) Tj T* ET
+Q
+Q
+q
+1 0 0 1 102.0472 52.4874 cm
+q
+.85098 .917647 .968627 rg
+n 0 64.8 391.1811 -16.2 re f*
+0 0 0 rg
+BT /F2 6.8 Tf 8.2 TL ET
+BT 1 0 0 1 6 54 Tm (Test Input) Tj T* ET
+BT 1 0 0 1 110.8819 54 Tm (Expected Result) Tj T* ET
+BT 1 0 0 1 292.2992 54 Tm (Purpose) Tj T* ET
+BT /F1 6.8 Tf 8.2 TL ET
+BT 1 0 0 1 6 37.8 Tm (200 prepared, 180 served) Tj T* ET
+BT 1 0 0 1 110.8819 37.8 Tm (20 leftovers; 10% waste; no alert) Tj T* ET
+BT 1 0 0 1 292.2992 37.8 Tm (Waste calculation) Tj T* ET
+BT 1 0 0 1 6 21.6 Tm (220 prepared, 170 served) Tj T* ET
+BT 1 0 0 1 110.8819 21.6 Tm (50 leftovers; 22.73%; alert) Tj T* ET
+BT 1 0 0 1 292.2992 21.6 Tm (Threshold alert) Tj T* ET
+BT 1 0 0 1 6 5.4 Tm (150 served from 100 prepared) Tj T* ET
+BT 1 0 0 1 110.8819 5.4 Tm (Invalid meal data) Tj T* ET
+BT 1 0 0 1 292.2992 5.4 Tm (Quantity validation) Tj T* ET
+q
+1 J
+1 j
+.65098 .65098 .65098 RG
+.35 w
+n 0 64.8 m 391.1811 64.8 l S
+n 0 0 m 391.1811 0 l S
+n 0 0 m 0 64.8 l S
+n 391.1811 0 m 391.1811 64.8 l S
+n 0 48.6 m 391.1811 48.6 l S
+n 0 32.4 m 391.1811 32.4 l S
+n 0 16.2 m 391.1811 16.2 l S
+n 104.8819 0 m 104.8819 64.8 l S
+n 286.2992 0 m 286.2992 64.8 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 25 re
+f*
+0.333333 0.333333 0.333333 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 30 14 Tm
+(Python Activity\055Based Learning \174 Amrutha Yanaganti \174 CSM\0552) Tj
+T*
+ET
+BT
+1 0 0 1 535.4756 14 Tm
+(Page 10) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 21 595.2756 15 re
+f*
+Q
+
+
+endstream
+endobj
+49 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+50 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+51 0 obj
+<<
+/Contents 52 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 12 0 R
+/F1-0 53 0 R
+/F1-1 54 0 R
+/F2 15 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+52 0 obj
+<<
+/Length 1018
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.5 Tf 9 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 45.35433 25.51181 Tm (Python Activity-Based Learning | Neha Jonnalagadda | CSM-2) Tj T* ET
+BT 1 0 0 1 521.9838 25.51181 Tm (Page 11) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 781.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 764.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (The system measures food waste using daily data and highlights days where wastage exceeds the selected threshold.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 25 re
+f*
+0.333333 0.333333 0.333333 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 30 14 Tm
+(Python Activity\055Based Learning \174 Amrutha Yanaganti \174 CSM\0552) Tj
+T*
+ET
+BT
+1 0 0 1 535.4756 14 Tm
+(Page 11) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 21 595.2756 15 re
+f*
+Q
+
+
+endstream
+endobj
+53 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+54 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+55 0 obj
+<<
+/Contents 56 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 12 0 R
+/F1-0 57 0 R
+/F1-1 58 0 R
+/F2 15 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+56 0 obj
+<<
+/Length 6940
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.5 Tf 9 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 45.35433 25.51181 Tm (Python Activity-Based Learning | Neha Jonnalagadda | CSM-2) Tj T* ET
+BT 1 0 0 1 521.9838 25.51181 Tm (Page 12) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 775.7874 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (6. Library Borrowing and Fine Reconciliation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 754.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Problem Statement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 737.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Process library borrowing records, calculate late-return fines, and report books that remain overdue or have been returned.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 717.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Objectives) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 700.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Calculate overdue days.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 683.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Calculate fines using a daily rate.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 666.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Summarize returned and overdue records.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 646.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Assumptions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 629.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Each record contains a book ID, due day, actual return day, and return status.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 612.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 A late fine of ) Tj /F5 8.5 Tf 11 TL (n) Tj /F1 8.5 Tf 11 TL (5 per day applies after the due day.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 595.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 If a book has not been returned, the current day is used as the actual day for calculating overdue days.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 575.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Algorithm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 558.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (1. Read the borrowing records and current day.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 541.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (2. Determine the applicable actual day for each record.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 524.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (3. Calculate overdue days as the positive difference from the due day.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 507.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (4. Calculate the fine and status.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 490.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (5. Display each record and the total fines.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 470.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Flowchart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 443.7874 cm
+q
+.705882 .780392 .905882 RG
+.5 w
+.964706 .972549 .984314 rg
+n -5 -5 502.5669 31 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 8 Tf 10.5 TL (START ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Read borrowing records ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Determine actual/current day ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Calculate overdue days and fine ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Classify status ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Display report) Tj T* (and total ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( STOP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 423.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Pseudocode) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 327.2874 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 86.5 Tm /F4 7 Tf 8.5 TL (BEGIN) Tj T* (  total_fines = 0) Tj T* (  FOR each book record) Tj T* (    IF returned: actual = return_day) Tj T* (    ELSE: actual = current_day) Tj T* (    overdue = max\(0, actual - due_day\)) Tj T* (    fine = overdue * 5) Tj T* (    total_fines = total_fines + fine) Tj T* (    DISPLAY book ID, overdue, fine, status) Tj T* (  DISPLAY total_fines) Tj T* (END) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 307.2874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Python Source Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 142.7874 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 154.5 Tm /F4 7 Tf 8.5 TL (current_day = 30) Tj T* (records = [) Tj T* (    \("BK101", 25, 28, True\),) Tj T* (    \("BK102", 26, 0, False\),) Tj T* (    \("BK103", 29, 30, True\)) Tj T* (]) Tj T* (rate_per_day = 5) Tj T* (total_fines = 0) Tj T*  T* (for book_id, due_day, return_day, returned in records:) Tj T* (    actual_day = return_day if returned else current_day) Tj T* (    overdue = max\(0, actual_day - due_day\)) Tj T* (    fine = overdue * rate_per_day) Tj T* (    total_fines += fine) Tj T* (    status = "RETURNED" if returned else "OVERDUE - NOT RETURNED") Tj T* (    print\(f"{book_id}: overdue={overdue} days, ") Tj T* (          f"fine=Rs.{fine}, status={status}"\)) Tj T*  T* (print\("Total fines: Rs.", total_fines\)) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 122.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Test Cases) Tj T* ET
+Q
+Q
+q
+1 0 0 1 102.0472 54.9874 cm
+q
+.85098 .917647 .968627 rg
+n 0 64.8 391.1811 -16.2 re f*
+0 0 0 rg
+BT /F2 6.8 Tf 8.2 TL ET
+BT 1 0 0 1 6 54 Tm (Test Input) Tj T* ET
+BT 1 0 0 1 110.8819 54 Tm (Expected Result) Tj T* ET
+BT 1 0 0 1 292.2992 54 Tm (Purpose) Tj T* ET
+BT /F1 6.8 Tf 8.2 TL ET
+BT 1 0 0 1 6 37.8 Tm (Due day 25, returned day 28) Tj T* ET
+BT 1 0 0 1 110.8819 37.8 Tm (3 overdue days; ) Tj /F5 6.8 Tf 8.2 TL (n) Tj /F1 6.8 Tf 8.2 TL (15 fine) Tj T* ET
+BT 1 0 0 1 292.2992 37.8 Tm (Late return) Tj T* ET
+BT 1 0 0 1 6 21.6 Tm (Due day 26, not returned by day 30) Tj T* ET
+BT 1 0 0 1 110.8819 21.6 Tm (4 overdue days; ) Tj /F5 6.8 Tf 8.2 TL (n) Tj /F1 6.8 Tf 8.2 TL (20 fine) Tj T* ET
+BT 1 0 0 1 292.2992 21.6 Tm (Overdue book) Tj T* ET
+BT 1 0 0 1 6 5.4 Tm (Returned on due day) Tj T* ET
+BT 1 0 0 1 110.8819 5.4 Tm (0 days; ) Tj /F5 6.8 Tf 8.2 TL (n) Tj /F1 6.8 Tf 8.2 TL (0 fine) Tj T* ET
+BT 1 0 0 1 292.2992 5.4 Tm (On-time return) Tj T* ET
+q
+1 J
+1 j
+.65098 .65098 .65098 RG
+.35 w
+n 0 64.8 m 391.1811 64.8 l S
+n 0 0 m 391.1811 0 l S
+n 0 0 m 0 64.8 l S
+n 391.1811 0 m 391.1811 64.8 l S
+n 0 48.6 m 391.1811 48.6 l S
+n 0 32.4 m 391.1811 32.4 l S
+n 0 16.2 m 391.1811 16.2 l S
+n 104.8819 0 m 104.8819 64.8 l S
+n 286.2992 0 m 286.2992 64.8 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 25 re
+f*
+0.333333 0.333333 0.333333 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 30 14 Tm
+(Python Activity\055Based Learning \174 Amrutha Yanaganti \174 CSM\0552) Tj
+T*
+ET
+BT
+1 0 0 1 535.4756 14 Tm
+(Page 12) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 21 595.2756 15 re
+f*
+Q
+
+
+endstream
+endobj
+57 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+58 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+59 0 obj
+<<
+/Contents 60 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 12 0 R
+/F1-0 61 0 R
+/F1-1 62 0 R
+/F2 15 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+60 0 obj
+<<
+/Length 1030
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.5 Tf 9 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 45.35433 25.51181 Tm (Python Activity-Based Learning | Neha Jonnalagadda | CSM-2) Tj T* ET
+BT 1 0 0 1 521.9838 25.51181 Tm (Page 13) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 781.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 764.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (The program uses tuple records and date-like day values to calculate fines and identify books that still need to be returned.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 25 re
+f*
+0.333333 0.333333 0.333333 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 30 14 Tm
+(Python Activity\055Based Learning \174 Amrutha Yanaganti \174 CSM\0552) Tj
+T*
+ET
+BT
+1 0 0 1 535.4756 14 Tm
+(Page 13) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 21 595.2756 15 re
+f*
+Q
+
+
+endstream
+endobj
+61 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+62 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+63 0 obj
+<<
+/Contents 64 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 12 0 R
+/F1-0 65 0 R
+/F1-1 66 0 R
+/F2 15 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+64 0 obj
+<<
+/Length 6904
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.5 Tf 9 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 45.35433 25.51181 Tm (Python Activity-Based Learning | Neha Jonnalagadda | CSM-2) Tj T* ET
+BT 1 0 0 1 521.9838 25.51181 Tm (Page 14) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 775.7874 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (7. Manufacturing Quality Control Matrix) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 754.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Problem Statement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 726.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (\177 Analyse production quantities and defective units for multiple products and batches, calculate defect rates, and flag batches) Tj T* (above a quality threshold.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 706.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Objectives) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 689.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Calculate defect percentages.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 672.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Validate production and defect counts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 655.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Identify batches that exceed the defect threshold.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 635.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Assumptions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 618.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Each record contains a product, batch, units produced, and defective units.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 601.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Produced units must be positive and defective units must be between zero and produced units.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 584.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 A batch is flagged when the defect rate exceeds 5%.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 564.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Algorithm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 547.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (1. Read batch records.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 530.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (2. Validate produced and defective quantities.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 513.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (3. Calculate the defect percentage.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 496.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (4. Compare the rate with 5%.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 479.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (5. Display the batch status.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 459.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Flowchart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 432.7874 cm
+q
+.705882 .780392 .905882 RG
+.5 w
+.964706 .972549 .984314 rg
+n -5 -5 502.5669 31 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 8 Tf 10.5 TL (START ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Read batch records ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Validate quantities ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Calculate defect percentage ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Above 5%? ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Flag batch ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Display report ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL T* (STOP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 412.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Pseudocode) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 324.7874 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 78 Tm /F4 7 Tf 8.5 TL (BEGIN) Tj T* (  FOR each product, batch, produced, defective) Tj T* (    IF produced <= 0 OR defective < 0 OR defective > produced:) Tj T* (      DISPLAY invalid) Tj T* (    ELSE) Tj T* (      rate = defective / produced * 100) Tj T* (      IF rate > 5: status = REVIEW) Tj T* (      ELSE: status = ACCEPTABLE) Tj T* (      DISPLAY product, batch, rate, status) Tj T* (END) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 304.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Python Source Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 174.2874 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 120.5 Tm /F4 7 Tf 8.5 TL (batches = [) Tj T* (    \("Bottle", "B01", 1000, 25\),) Tj T* (    \("Cup", "C02", 800, 56\),) Tj T* (    \("Plate", "P03", 500, 10\)) Tj T* (]) Tj T* (limit = 5) Tj T*  T* (for product, batch, produced, defective in batches:) Tj T* (    if produced <= 0 or defective < 0 or defective > produced:) Tj T* (        print\(batch, "- Invalid production data"\)) Tj T* (        continue) Tj T*  T* (    rate = defective / produced * 100) Tj T* (    status = "REVIEW" if rate > limit else "ACCEPTABLE") Tj T* (    print\(f"{product} {batch}: defect rate={rate:.2f}%, status={status}"\)) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 154.2874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Test Cases) Tj T* ET
+Q
+Q
+q
+1 0 0 1 102.0472 86.4874 cm
+q
+.85098 .917647 .968627 rg
+n 0 64.8 391.1811 -16.2 re f*
+0 0 0 rg
+BT /F2 6.8 Tf 8.2 TL ET
+BT 1 0 0 1 6 54 Tm (Test Input) Tj T* ET
+BT 1 0 0 1 110.8819 54 Tm (Expected Result) Tj T* ET
+BT 1 0 0 1 292.2992 54 Tm (Purpose) Tj T* ET
+BT /F1 6.8 Tf 8.2 TL ET
+BT 1 0 0 1 6 37.8 Tm (1,000 produced, 25 defective) Tj T* ET
+BT 1 0 0 1 110.8819 37.8 Tm (2.5%; ACCEPTABLE) Tj T* ET
+BT 1 0 0 1 292.2992 37.8 Tm (Below threshold) Tj T* ET
+BT 1 0 0 1 6 21.6 Tm (800 produced, 56 defective) Tj T* ET
+BT 1 0 0 1 110.8819 21.6 Tm (7%; REVIEW) Tj T* ET
+BT 1 0 0 1 292.2992 21.6 Tm (Above threshold) Tj T* ET
+BT 1 0 0 1 6 5.4 Tm (500 produced, 600 defective) Tj T* ET
+BT 1 0 0 1 110.8819 5.4 Tm (Invalid production data) Tj T* ET
+BT 1 0 0 1 292.2992 5.4 Tm (Validation) Tj T* ET
+q
+1 J
+1 j
+.65098 .65098 .65098 RG
+.35 w
+n 0 64.8 m 391.1811 64.8 l S
+n 0 0 m 391.1811 0 l S
+n 0 0 m 0 64.8 l S
+n 391.1811 0 m 391.1811 64.8 l S
+n 0 48.6 m 391.1811 48.6 l S
+n 0 32.4 m 391.1811 32.4 l S
+n 0 16.2 m 391.1811 16.2 l S
+n 104.8819 0 m 104.8819 64.8 l S
+n 286.2992 0 m 286.2992 64.8 l S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 66.4874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 49.4874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (The quality-control program analyses batch data and flags high defect rates using a clear threshold.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 25 re
+f*
+0.333333 0.333333 0.333333 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 30 14 Tm
+(Python Activity\055Based Learning \174 Amrutha Yanaganti \174 CSM\0552) Tj
+T*
+ET
+BT
+1 0 0 1 535.4756 14 Tm
+(Page 14) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 21 595.2756 15 re
+f*
+Q
+
+
+endstream
+endobj
+65 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+66 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+67 0 obj
+<<
+/Contents 68 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 12 0 R
+/F1-0 69 0 R
+/F1-1 70 0 R
+/F2 15 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+68 0 obj
+<<
+/Length 5950
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.5 Tf 9 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 45.35433 25.51181 Tm (Python Activity-Based Learning | Neha Jonnalagadda | CSM-2) Tj T* ET
+BT 1 0 0 1 521.9838 25.51181 Tm (Page 15) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 775.7874 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (8. Multi-Branch Sales Matrix Comparison) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 754.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Problem Statement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 726.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (\177 Store sales of several products across multiple branches in a nested list, calculate product totals and branch totals, and identify) Tj T* (the strongest sales results.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 706.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Objectives) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 689.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Calculate branch-wise sales totals.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 672.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Calculate product-wise totals.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 655.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Identify the highest-selling product and branch.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 635.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Assumptions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 618.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Each row represents a branch and each column represents a product.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 601.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 All sales values are non-negative.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 584.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 All branches report sales for the same products.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 564.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Algorithm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 547.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (1. Create branch names, product names, and a sales matrix.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 530.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (2. Validate the matrix values and dimensions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 513.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (3. Calculate each branch's total sales.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 496.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (4. Calculate each product's total across branches.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 479.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (5. Display the best-performing branch and product.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 459.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Flowchart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 432.7874 cm
+q
+.705882 .780392 .905882 RG
+.5 w
+.964706 .972549 .984314 rg
+n -5 -5 502.5669 31 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 8 Tf 10.5 TL (START ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Read sales matrix ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Validate data ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Calculate branch totals ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Calculate product totals ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Find maxima ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Display report ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL T* (STOP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 412.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Pseudocode) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 324.7874 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 78 Tm /F4 7 Tf 8.5 TL (BEGIN) Tj T* (  FOR each branch row) Tj T* (    branch_total = sum\(row\)) Tj T* (    DISPLAY branch total) Tj T* (  FOR each product column) Tj T* (    product_total = sum\(column across branches\)) Tj T* (    DISPLAY product total) Tj T* (  DISPLAY branch with maximum total) Tj T* (  DISPLAY product with maximum total) Tj T* (END) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 304.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Python Source Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 80.7874 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 214 Tm /F4 7 Tf 8.5 TL (branches = ["North", "South", "East"]) Tj T* (products = ["Laptop", "Tablet", "Phone"]) Tj T* (sales = [) Tj T* (    [12, 18, 25],) Tj T* (    [15, 14, 30],) Tj T* (    [10, 20, 22]) Tj T* (]) Tj T*  T* (if any\(value < 0 for row in sales for value in row\) or any\() Tj T* (        len\(row\) != len\(products\) for row in sales\):) Tj T* (    print\("Invalid sales matrix"\)) Tj T* (else:) Tj T* (    branch_totals = []) Tj T* (    for branch, row in zip\(branches, sales\):) Tj T* (        total = sum\(row\)) Tj T* (        branch_totals.append\(total\)) Tj T* (        print\(branch, "total sales:", total\)) Tj T*  T* (    product_totals = []) Tj T* (    for j, product in enumerate\(products\):) Tj T* (        total = sum\(row[j] for row in sales\)) Tj T* (        product_totals.append\(total\)) Tj T* (        print\(product, "total sales:", total\)) Tj T*  T* (    print\("Best branch:", branches[branch_totals.index\(max\(branch_totals\)\)]\)) Tj T* (    print\("Best-selling product:", products[product_totals.index\(max\(product_totals\)\)]\)) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 60.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Test Cases) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 25 re
+f*
+0.333333 0.333333 0.333333 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 30 14 Tm
+(Python Activity\055Based Learning \174 Amrutha Yanaganti \174 CSM\0552) Tj
+T*
+ET
+BT
+1 0 0 1 535.4756 14 Tm
+(Page 15) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 21 595.2756 15 re
+f*
+Q
+
+
+endstream
+endobj
+69 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+70 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+71 0 obj
+<<
+/Contents 72 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 12 0 R
+/F1-0 73 0 R
+/F1-1 74 0 R
+/F2 15 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+72 0 obj
+<<
+/Length 2184
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.5 Tf 9 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 45.35433 25.51181 Tm (Python Activity-Based Learning | Neha Jonnalagadda | CSM-2) Tj T* ET
+BT 1 0 0 1 521.9838 25.51181 Tm (Page 16) Tj T* ET
+Q
+q
+1 0 0 1 102.0472 729.9874 cm
+q
+.85098 .917647 .968627 rg
+n 0 64.8 391.1811 -16.2 re f*
+0 0 0 rg
+BT /F2 6.8 Tf 8.2 TL ET
+BT 1 0 0 1 6 54 Tm (Test Input) Tj T* ET
+BT 1 0 0 1 110.8819 54 Tm (Expected Result) Tj T* ET
+BT 1 0 0 1 292.2992 54 Tm (Purpose) Tj T* ET
+BT /F1 6.8 Tf 8.2 TL ET
+BT 1 0 0 1 6 37.8 Tm (Sales matrix [[12,18,25],[15,14,30],[10,20,22]]) Tj T* ET
+BT 1 0 0 1 110.8819 37.8 Tm (Branch totals 55, 59, 52; South highest; Phone highest) Tj T* ET
+BT 1 0 0 1 292.2992 37.8 Tm (Totals and ranking) Tj T* ET
+BT 1 0 0 1 6 21.6 Tm (Negative sales value) Tj T* ET
+BT 1 0 0 1 110.8819 21.6 Tm (Invalid sales matrix) Tj T* ET
+BT 1 0 0 1 292.2992 21.6 Tm (Validation) Tj T* ET
+BT 1 0 0 1 6 5.4 Tm (Row with missing product value) Tj T* ET
+BT 1 0 0 1 110.8819 5.4 Tm (Invalid sales matrix) Tj T* ET
+BT 1 0 0 1 292.2992 5.4 Tm (Matrix structure) Tj T* ET
+q
+1 J
+1 j
+.65098 .65098 .65098 RG
+.35 w
+n 0 64.8 m 391.1811 64.8 l S
+n 0 0 m 391.1811 0 l S
+n 0 0 m 0 64.8 l S
+n 391.1811 0 m 391.1811 64.8 l S
+n 0 48.6 m 391.1811 48.6 l S
+n 0 32.4 m 391.1811 32.4 l S
+n 0 16.2 m 391.1811 16.2 l S
+n 104.8819 0 m 104.8819 64.8 l S
+n 286.2992 0 m 286.2992 64.8 l S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 709.9874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 692.9874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (The program demonstrates nested lists, column-wise and row-wise totals, and simple ranking across branches and products.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 25 re
+f*
+0.333333 0.333333 0.333333 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 30 14 Tm
+(Python Activity\055Based Learning \174 Amrutha Yanaganti \174 CSM\0552) Tj
+T*
+ET
+BT
+1 0 0 1 535.4756 14 Tm
+(Page 16) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 21 595.2756 15 re
+f*
+Q
+
+
+endstream
+endobj
+73 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+74 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+75 0 obj
+<<
+/Contents 76 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 12 0 R
+/F1-0 77 0 R
+/F1-1 78 0 R
+/F2 15 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+76 0 obj
+<<
+/Length 5756
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.5 Tf 9 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 45.35433 25.51181 Tm (Python Activity-Based Learning | Neha Jonnalagadda | CSM-2) Tj T* ET
+BT 1 0 0 1 521.9838 25.51181 Tm (Page 17) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 775.7874 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (9. Weekly Electricity Consumption Analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 754.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Problem Statement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 726.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (\177 Analyse daily electricity readings for several appliances, calculate weekly consumption and cost, and flag appliances whose) Tj T* (consumption exceeds a limit.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 706.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Objectives) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 689.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Calculate weekly appliance consumption.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 672.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Estimate electricity cost.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 655.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Identify appliances exceeding a weekly usage threshold.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 635.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Assumptions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 618.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Readings are in kWh and cannot be negative.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 601.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 The illustrative electricity rate is ) Tj /F5 8.5 Tf 11 TL (n) Tj /F1 8.5 Tf 11 TL (7 per kWh.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 584.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 An appliance is flagged when weekly consumption exceeds 20 kWh.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 564.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Algorithm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 547.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (1. Store appliance names and seven daily readings.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 530.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (2. Validate the readings.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 513.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (3. Calculate each appliance's weekly consumption and cost.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 496.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (4. Compare consumption with the threshold.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 479.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (5. Display appliance-wise results and the overall total.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 459.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Flowchart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 432.7874 cm
+q
+.705882 .780392 .905882 RG
+.5 w
+.964706 .972549 .984314 rg
+n -5 -5 502.5669 31 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 8 Tf 10.5 TL (START ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Read appliance readings ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Validate values ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Calculate weekly units and cost ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Check threshold ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Display appliance and) Tj T* (total summary ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( STOP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 412.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Pseudocode) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 307.7874 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 95 Tm /F4 7 Tf 8.5 TL (BEGIN) Tj T* (  total_units = 0) Tj T* (  FOR each appliance and daily_readings) Tj T* (    IF any reading < 0: DISPLAY invalid) Tj T* (    ELSE) Tj T* (      weekly = sum\(daily_readings\)) Tj T* (      cost = weekly * rate) Tj T* (      total_units = total_units + weekly) Tj T* (      DISPLAY weekly, cost) Tj T* (      IF weekly > 20: DISPLAY high-usage alert) Tj T* (  DISPLAY total_units and total cost) Tj T* (END) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 287.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Python Source Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 97.7874 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 180 Tm /F4 7 Tf 8.5 TL (rate = 7) Tj T* (appliances = {) Tj T* (    "Fan": [2, 2, 2, 2, 2, 2, 2],) Tj T* (    "Computer": [3, 3, 4, 3, 4, 2, 2],) Tj T* (    "Heater": [4, 4, 4, 4, 4, 4, 4]) Tj T* (}) Tj T* (total_units = 0) Tj T*  T* (for appliance, readings in appliances.items\(\):) Tj T* (    if any\(value < 0 for value in readings\):) Tj T* (        print\(appliance, "- Invalid reading"\)) Tj T* (        continue) Tj T*  T* (    weekly = sum\(readings\)) Tj T* (    cost = weekly * rate) Tj T* (    total_units += weekly) Tj T* (    print\(f"{appliance}: {weekly} kWh, cost=Rs.{cost}"\)) Tj T* (    if weekly > 20:) Tj T* (        print\("  High-usage alert"\)) Tj T*  T* (print\("Total weekly units:", total_units\)) Tj T* (print\("Total weekly cost: Rs.", total_units * rate\)) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 77.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Test Cases) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 25 re
+f*
+0.333333 0.333333 0.333333 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 30 14 Tm
+(Python Activity\055Based Learning \174 Amrutha Yanaganti \174 CSM\0552) Tj
+T*
+ET
+BT
+1 0 0 1 535.4756 14 Tm
+(Page 17) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 21 595.2756 15 re
+f*
+Q
+
+
+endstream
+endobj
+77 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+78 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+79 0 obj
+<<
+/Contents 80 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 12 0 R
+/F1-0 81 0 R
+/F1-1 82 0 R
+/F2 15 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+80 0 obj
+<<
+/Length 2222
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.5 Tf 9 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 45.35433 25.51181 Tm (Python Activity-Based Learning | Neha Jonnalagadda | CSM-2) Tj T* ET
+BT 1 0 0 1 521.9838 25.51181 Tm (Page 18) Tj T* ET
+Q
+q
+1 0 0 1 102.0472 729.9874 cm
+q
+.85098 .917647 .968627 rg
+n 0 64.8 391.1811 -16.2 re f*
+0 0 0 rg
+BT /F2 6.8 Tf 8.2 TL ET
+BT 1 0 0 1 6 54 Tm (Test Input) Tj T* ET
+BT 1 0 0 1 110.8819 54 Tm (Expected Result) Tj T* ET
+BT 1 0 0 1 292.2992 54 Tm (Purpose) Tj T* ET
+BT /F1 6.8 Tf 8.2 TL ET
+BT 1 0 0 1 6 37.8 Tm (Fan uses 2 kWh for 7 days) Tj T* ET
+BT 1 0 0 1 110.8819 37.8 Tm (14 kWh; ) Tj /F5 6.8 Tf 8.2 TL (n) Tj /F1 6.8 Tf 8.2 TL (98; no alert) Tj T* ET
+BT 1 0 0 1 292.2992 37.8 Tm (Weekly total and cost) Tj T* ET
+BT 1 0 0 1 6 21.6 Tm (Heater uses 4 kWh for 7 days) Tj T* ET
+BT 1 0 0 1 110.8819 21.6 Tm (28 kWh; ) Tj /F5 6.8 Tf 8.2 TL (n) Tj /F1 6.8 Tf 8.2 TL (196; alert) Tj T* ET
+BT 1 0 0 1 292.2992 21.6 Tm (Threshold check) Tj T* ET
+BT 1 0 0 1 6 5.4 Tm (Negative reading) Tj T* ET
+BT 1 0 0 1 110.8819 5.4 Tm (Invalid reading) Tj T* ET
+BT 1 0 0 1 292.2992 5.4 Tm (Validation) Tj T* ET
+q
+1 J
+1 j
+.65098 .65098 .65098 RG
+.35 w
+n 0 64.8 m 391.1811 64.8 l S
+n 0 0 m 391.1811 0 l S
+n 0 0 m 0 64.8 l S
+n 391.1811 0 m 391.1811 64.8 l S
+n 0 48.6 m 391.1811 48.6 l S
+n 0 32.4 m 391.1811 32.4 l S
+n 0 16.2 m 391.1811 16.2 l S
+n 104.8819 0 m 104.8819 64.8 l S
+n 286.2992 0 m 286.2992 64.8 l S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 709.9874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 692.9874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (The program uses lists and dictionary records to calculate weekly electricity usage, estimate costs, and flag high consumption.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 25 re
+f*
+0.333333 0.333333 0.333333 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 30 14 Tm
+(Python Activity\055Based Learning \174 Amrutha Yanaganti \174 CSM\0552) Tj
+T*
+ET
+BT
+1 0 0 1 535.4756 14 Tm
+(Page 18) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 21 595.2756 15 re
+f*
+Q
+
+
+endstream
+endobj
+81 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+82 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+83 0 obj
+<<
+/Contents 84 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 12 0 R
+/F1-0 85 0 R
+/F1-1 86 0 R
+/F2 15 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+84 0 obj
+<<
+/Length 6750
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.5 Tf 9 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 45.35433 25.51181 Tm (Python Activity-Based Learning | Neha Jonnalagadda | CSM-2) Tj T* ET
+BT 1 0 0 1 521.9838 25.51181 Tm (Page 19) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 775.7874 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (10. Campus Transport Capacity Planner) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 754.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Problem Statement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 726.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.5 Tm /F1 8.5 Tf 11 TL (\177 Calculate the number of buses required for each route based on passenger demand and bus capacity, and identify any) Tj T* (passengers who cannot be accommodated.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 706.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Objectives) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 689.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Calculate buses needed per route.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 672.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Check the capacity of the available fleet.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 655.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Report unserved passengers when buses are insufficient.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 635.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Assumptions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 618.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Passenger demand is a non-negative integer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 601.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 Each bus can carry 40 passengers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 584.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (\177 The sample has a limited number of buses available for each route.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 564.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Algorithm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 547.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (1. Read route passenger demand and available buses.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 530.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (2. Calculate required buses using ceiling division.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 513.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (3. Calculate available passenger capacity.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 496.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (4. Determine unserved passengers if capacity is insufficient.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 479.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (5. Display the route plan.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 459.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Flowchart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 432.7874 cm
+q
+.705882 .780392 .905882 RG
+.5 w
+.964706 .972549 .984314 rg
+n -5 -5 502.5669 31 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 8 Tf 10.5 TL (START ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Read route demand and available buses ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Calculate buses needed ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Calculate available capacity ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( Determine shortage ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL T* (Display route plan ) Tj /F3 8 Tf 10.5 TL (\256) Tj /F1 8 Tf 10.5 TL ( STOP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 412.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Pseudocode) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 333.2874 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 69.5 Tm /F4 7 Tf 8.5 TL (BEGIN) Tj T* (  FOR each route) Tj T* (    IF passengers < 0 OR buses_available < 0: DISPLAY invalid) Tj T* (    ELSE) Tj T* (      buses_needed = ceiling\(passengers / capacity\)) Tj T* (      available_capacity = buses_available * capacity) Tj T* (      unserved = max\(0, passengers - available_capacity\)) Tj T* (      DISPLAY buses_needed, unserved) Tj T* (END) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 313.2874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Python Source Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 148.7874 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 154.5 Tm /F4 7 Tf 8.5 TL (routes = [) Tj T* (    \("Route A", 95, 3\),) Tj T* (    \("Route B", 130, 2\),) Tj T* (    \("Route C", 60, 2\)) Tj T* (]) Tj T* (capacity = 40) Tj T*  T* (for route, passengers, available_buses in routes:) Tj T* (    if passengers < 0 or available_buses < 0:) Tj T* (        print\(route, "- Invalid data"\)) Tj T* (        continue) Tj T*  T* (    buses_needed = \(passengers + capacity - 1\) // capacity) Tj T* (    available_capacity = available_buses * capacity) Tj T* (    unserved = max\(0, passengers - available_capacity\)) Tj T*  T* (    print\(f"{route}: passengers={passengers}, ") Tj T* (          f"buses needed={buses_needed}, available buses={available_buses}, ") Tj T* (          f"unserved passengers={unserved}"\)) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 128.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Test Cases) Tj T* ET
+Q
+Q
+q
+1 0 0 1 102.0472 60.9874 cm
+q
+.85098 .917647 .968627 rg
+n 0 64.8 391.1811 -16.2 re f*
+0 0 0 rg
+BT /F2 6.8 Tf 8.2 TL ET
+BT 1 0 0 1 6 54 Tm (Test Input) Tj T* ET
+BT 1 0 0 1 110.8819 54 Tm (Expected Result) Tj T* ET
+BT 1 0 0 1 292.2992 54 Tm (Purpose) Tj T* ET
+BT /F1 6.8 Tf 8.2 TL ET
+BT 1 0 0 1 6 37.8 Tm (95 passengers, 3 buses available) Tj T* ET
+BT 1 0 0 1 110.8819 37.8 Tm (3 buses needed; 0 unserved) Tj T* ET
+BT 1 0 0 1 292.2992 37.8 Tm (Enough capacity) Tj T* ET
+BT 1 0 0 1 6 21.6 Tm (130 passengers, 2 buses available) Tj T* ET
+BT 1 0 0 1 110.8819 21.6 Tm (4 buses needed; 50 unserved) Tj T* ET
+BT 1 0 0 1 292.2992 21.6 Tm (Capacity shortage) Tj T* ET
+BT 1 0 0 1 6 5.4 Tm (Negative passenger count) Tj T* ET
+BT 1 0 0 1 110.8819 5.4 Tm (Invalid data) Tj T* ET
+BT 1 0 0 1 292.2992 5.4 Tm (Input validation) Tj T* ET
+q
+1 J
+1 j
+.65098 .65098 .65098 RG
+.35 w
+n 0 64.8 m 391.1811 64.8 l S
+n 0 0 m 391.1811 0 l S
+n 0 0 m 0 64.8 l S
+n 391.1811 0 m 391.1811 64.8 l S
+n 0 48.6 m 391.1811 48.6 l S
+n 0 32.4 m 391.1811 32.4 l S
+n 0 16.2 m 391.1811 16.2 l S
+n 104.8819 0 m 104.8819 64.8 l S
+n 286.2992 0 m 286.2992 64.8 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 25 re
+f*
+0.333333 0.333333 0.333333 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 30 14 Tm
+(Python Activity\055Based Learning \174 Amrutha Yanaganti \174 CSM\0552) Tj
+T*
+ET
+BT
+1 0 0 1 535.4756 14 Tm
+(Page 19) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 21 595.2756 15 re
+f*
+Q
+
+
+endstream
+endobj
+85 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+86 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+87 0 obj
+<<
+/Contents 88 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 12 0 R
+/F1-0 89 0 R
+/F1-1 90 0 R
+/F2 15 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+88 0 obj
+<<
+/Length 1017
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.5 Tf 9 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 45.35433 25.51181 Tm (Python Activity-Based Learning | Neha Jonnalagadda | CSM-2) Tj T* ET
+BT 1 0 0 1 521.9838 25.51181 Tm (Page 20) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 781.7874 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 764.7874 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (The planner compares passenger demand with bus capacity and identifies routes that require additional transport.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 25 re
+f*
+0.333333 0.333333 0.333333 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 30 14 Tm
+(Python Activity\055Based Learning \174 Amrutha Yanaganti \174 CSM\0552) Tj
+T*
+ET
+BT
+1 0 0 1 535.4756 14 Tm
+(Page 20) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 21 595.2756 15 re
+f*
+Q
+
+
+endstream
+endobj
+89 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+90 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 91
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000247 00000 n 
+0000000296 00000 n 
+0000000549 00000 n 
+0000003814 00000 n 
+0000003921 00000 n 
+0000004028 00000 n 
+0000004140 00000 n 
+0000004255 00000 n 
+0000004549 00000 n 
+0000011075 00000 n 
+0000011183 00000 n 
+0000011291 00000 n 
+0000011399 00000 n 
+0000011512 00000 n 
+0000011590 00000 n 
+0000011696 00000 n 
+0000011780 00000 n 
+0000012074 00000 n 
+0000013951 00000 n 
+0000014059 00000 n 
+0000014167 00000 n 
+0000014461 00000 n 
+0000020116 00000 n 
+0000020224 00000 n 
+0000020332 00000 n 
+0000020626 00000 n 
+0000023089 00000 n 
+0000023197 00000 n 
+0000023305 00000 n 
+0000023599 00000 n 
+0000030120 00000 n 
+0000030228 00000 n 
+0000030336 00000 n 
+0000030630 00000 n 
+0000031699 00000 n 
+0000031807 00000 n 
+0000031915 00000 n 
+0000032209 00000 n 
+0000039022 00000 n 
+0000039130 00000 n 
+0000039238 00000 n 
+0000039532 00000 n 
+0000040479 00000 n 
+0000040587 00000 n 
+0000040695 00000 n 
+0000040989 00000 n 
+0000047741 00000 n 
+0000047849 00000 n 
+0000047957 00000 n 
+0000048251 00000 n 
+0000049322 00000 n 
+0000049430 00000 n 
+0000049538 00000 n 
+0000049832 00000 n 
+0000056825 00000 n 
+0000056933 00000 n 
+0000057041 00000 n 
+0000057335 00000 n 
+0000058418 00000 n 
+0000058526 00000 n 
+0000058634 00000 n 
+0000058928 00000 n 
+0000065885 00000 n 
+0000065993 00000 n 
+0000066101 00000 n 
+0000066395 00000 n 
+0000072398 00000 n 
+0000072506 00000 n 
+0000072614 00000 n 
+0000072908 00000 n 
+0000075145 00000 n 
+0000075253 00000 n 
+0000075361 00000 n 
+0000075655 00000 n 
+0000081464 00000 n 
+0000081572 00000 n 
+0000081680 00000 n 
+0000081974 00000 n 
+0000084249 00000 n 
+0000084357 00000 n 
+0000084465 00000 n 
+0000084759 00000 n 
+0000091562 00000 n 
+0000091670 00000 n 
+0000091778 00000 n 
+0000092072 00000 n 
+0000093142 00000 n 
+0000093250 00000 n 
+trailer
+<<
+/Size 91
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+93358
+%%EOF
+3 1 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+ /AF [92 0 R] /Names << /EmbeddedFiles << /Names [(Content Credentials) 92 0 R] >> >> >>
+endobj
+91 0 obj
+<< /Length 24278 /Type /EmbeddedFile /Subtype /application#2Fc2pa >>
+stream
+  ^÷jumb   jumdc2pa  Ä  ™ 8õqc2pa   ^∞jumb   Gjumdc2ma  Ä  ™ 8õqurn:c2pa:e8686ee6-b703-46b7-b1e2-186ba9a5f831   †jumb   )jumdc2as  Ä  ™ 8õqc2pa.assertions   	πjumb   #jumd@À2ªäHùß*÷ÙCic2pa.icon    bfdb image/svg+xml   	wbidb<svg width="716" height="716" viewBox="0 0 716 716" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M508.749 317.399C516.777 287.314 508.991 253.884 485.389 230.282C461.788 206.681 428.36 198.895 398.273 206.923C376.231 184.928 343.39 174.956 311.148 183.596C278.906 192.234 255.45 217.292 247.36 247.361C217.291 255.451 192.233 278.91 183.595 311.149C174.957 343.391 184.927 376.232 206.924 398.274C198.896 428.359 206.683 461.789 230.284 485.391C253.885 508.992 287.313 516.779 317.401 508.75C339.442 530.745 372.286 540.717 404.525 532.079C436.767 523.441 460.223 498.384 468.313 468.315C498.383 460.224 523.44 436.766 532.078 404.526C540.716 372.285 530.747 339.443 508.749 317.402V317.399ZM470.899 244.776C486.892 260.77 493.488 282.601 490.687 303.412L415.577 260.046C412.411 258.218 408.509 258.218 405.345 260.046L317.401 310.82V277.526C317.401 275.191 318.652 273.005 320.676 271.837L387.644 233.174C414.178 218.353 448.346 222.223 470.901 244.776H470.899ZM357.837 311.144L398.275 334.491V381.185L357.837 404.532L317.398 381.185V334.491L357.837 311.144ZM264.776 269.693C265.207 239.305 285.644 211.649 316.453 203.393C338.3 197.54 360.505 202.744 377.127 215.573L302.014 258.937C298.848 260.764 296.898 264.144 296.898 267.798V369.346L268.065 352.699C266.043 351.531 264.776 349.353 264.776 347.017V269.691V269.693ZM203.391 316.454C209.244 294.608 224.854 277.978 244.276 269.999V356.73C244.276 360.384 246.226 363.763 249.392 365.591L337.337 416.365L308.503 433.013C306.481 434.181 303.961 434.188 301.939 433.02L234.971 394.357C208.868 378.789 195.138 347.261 203.391 316.454ZM244.775 470.9C228.781 454.906 222.186 433.075 224.986 412.264L300.096 455.63C303.263 457.457 307.164 457.457 310.328 455.63L398.273 404.856V438.149C398.273 440.485 397.022 442.671 394.997 443.839L328.029 482.502C301.495 497.322 267.327 493.452 244.772 470.9H244.775ZM450.897 445.982C450.466 476.371 430.029 504.027 399.22 512.283C377.373 518.136 355.168 512.932 338.547 500.102L413.659 456.738C416.826 454.911 418.775 451.532 418.775 447.877V346.329L447.609 362.977C449.631 364.145 450.897 366.323 450.897 368.659V445.985V445.982ZM512.282 399.221C506.429 421.068 490.819 437.697 471.397 445.676V358.946C471.397 355.292 469.448 351.912 466.281 350.085L378.336 299.311L407.17 282.663C409.192 281.495 411.712 281.487 413.734 282.655L480.702 321.318C506.805 336.887 520.536 368.415 512.282 399.221Z" fill="black"/>
+</svg>
+  jumb   )jumdcbor  Ä  ™ 8õqc2pa.actions.v2    ﬂcbor¢gactionsÅ§factionlc2pa.createdqdigitalSourceTypexFhttp://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMediamsoftwareAgent¢dnameegpt-6gversionegpt-6dwhenx2026-10-24T06:29:55.310206ZrallActionsIncludedÙ   ¶jumb   (jumdcbor  Ä  ™ 8õqc2pa.hash.data    vcbor•jexclusionsÅ¢estart tıflength^÷dnamenjumbf manifestcalgfsha256dhashX Ë∆%‘πí›y0ÿû¥D√ZÓoòL4¡—ùìæ®4cpad@  âjumb   'jumdc2cl  Ä  ™ 8õqc2pa.claim.v2   Zcbor¶jinstanceIDx,xmp:iid:62e2d152-8c2d-485d-ab11-051357752093tclaim_generator_info£dnamegChatGPTdicon¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„ÒkspecVersione2.2.0isignaturexMself#jumbf=/c2pa/urn:c2pa:e8686ee6-b703-46b7-b1e2-186ba9a5f831/c2pa.signaturercreated_assertionsÉ¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„Ò¢curlx*self#jumbf=c2pa.assertions/c2pa.actions.v2dhashX ÷Œ‹úÙ_ﬁé≠ÛRπˇ©†ûüë	TÉ∫∫wì	´¢curlx)self#jumbf=c2pa.assertions/c2pa.hash.datadhashX I≠¥æï˝C^±]ê›;n;∏S¥éd7H†1Ô¡_ˆ¯hdc:titleiimage.pdfcalgfsha256  P8jumb   (jumdc2cs  Ä  ™ 8õqc2pa.signature   Pcbor“ÑYË¢8$!ÇYà0ÇÑ0Çl†•¸ÈpåÚÄ1ÓDds0	*ÜHÜ˜ 0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0260422155105Z270423155104Z0G10	UUS10U
+OpenAI OpCo, LLC10UOpenAI Media Service0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ù∫jLMóÍÅâ∂—æ^XNr°ôﬂiq|Â!#”Å¢5úL£J<Ôn+øÊdÆ◊ÑKi$ZcœÍv
+ê≤e€|<ç·˛¡3wØ'ﬁ; :¥cáòÕMúø¥3D™T07F∏˝öyDsWU£c|›¨X/ÊzÆﬁ•ò√ìNHZ¯‡|§íK’l∫ ¬*»íæu‘îgµW™jöm00,◊Uaåj“S∂ x^ECûNí£ÄÒØ[—≤Î˛ãÔ∫◊7	ï´d-ô…áö¯ø.–ÁcÄñöy†7ì6£5…H…,òcÈDõ5¨πßSlúhs»
+9ÃIÛ £Çg0Çc0Uˇ0 0U#0Ä9=G‹óèØà{MsÕÂÓ§•*0o+c0a09+0Ü-http://crt-c2pa.ssl.com/SSL.com-C2PA-I-R1.cer0$+0Ühttp://ocsp-c2pa.ssl.com0U 00
++ÉË^0)U%"0 ++$
++ÉË^0UÛùM‘Àùr¯F
+vG•hOt0Uˇ¿0	+ÉË^
++ÉË^
+03	+ÉË^&$019bc403-5cd7-7669-afe6-fdb17177d4280	*ÜHÜ˜ Ç Ç8óle°7 Ò˘Ìt∫’¶[5ıglœ+fi@Õı¸“rVﬂ ï(Í¯fﬁBC=¯x†h(â≠µÓ¸ı2“å∏_ÁlÄnÎ[|ó[0Á.B∏∆pö˛˛ 	¨5F’†åIEÄ√∫íU«Zùo“Îÿyõñ:ºDê44}ÙA•3ó/.lQR
+m=I∞À«ÜXÃ‹Óû.È∆9∏3\ ⁄Ó W3T.p(J%)Oí|.“˙›g.zËPx9Q∫É:⁄à~ê#êíıbXöÂ¬®sÜû≈ÿqÈÔ\d{ëÓ7/vòxVdÁoB—}íºÖjomdÖÿˇ"ñÌπÔ≤–\Ñ}h]5[K±≈iHyÊhé†ƒaò:L¯¿$yÂ¶h‡Ô˝÷ê÷.-AduV_ìî∂°úä<∂¿ËmÛ≈CÁv,h§ÚÊÀãàïË{*r$Å=!∆cm/%Ä£ô[™)•˝GÍ·˜kÂ˚[P&m+°Ç]1ı›b®|2‹L«•,r0PÄWìÇ‚ËÆ≥ßØY4ÆrÔ*ùÆx¨‚3ÏSµ…ô“(®*7°N´¸Ã~Xõ'mE·¥*úΩ0W°1. .…‚»T€°íOæ$5ò˛/i‹∏M„ﬁ/Ëlı¡ä‚”˛rw”®+‘WóÆáÿ æì∂âYS0ÇO0Ç7†'+c»ÃM-õÑQrlÙú^2QÆﬁ0	*ÜHÜ˜ 0O1&0$USSL.com C2PA RSA Root CA 202510U
+SSL Corporation10	UUS0251222181730Z301221181730Z0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç À:¥Õ∏úÀ)V∏yß¯kˆ˘ÿèr√¶ò≠*A⁄a.GRΩtQæ]ÏzÇ∂¿˚˙Ë'•ãË˛bÛ`Ò_H ssï‰NnÃNz5ﬁX·◊Ç‹“GCwõﬂHàyü£9§YN^‡NGóÚuB◊v=∂§"‹Ì∆o‘rFå÷Q«µ∑zÚì˘#'’ÄPuäp†hÈÁºÑ(|ú*Í)©¿/˛…vFU∞/cÍ}ûÙ∞D§@ﬁ@6\DäTkWHˇªo§’Íé¬◊|ÿºŒiø† MìE;ô.y“œûü)ªFŸxc0ñ3Qú^ìm˙Â4JXx≥)l]|∏uï<ôw!{ÿ¥JÎ⁄Õ«
+÷…¢ﬁÆó≥∂Qñ⁄íõ√≤ªPƒ˛∂§Lï]-íjObÂ‡*˜i†ú’πì ⁄—ª^O∆Ø˘)L–…ÏÎÛ≤qP{v'hë˘Pà∏w5ÿÕ°·◊”)ÁJ∆áTY$¬g≤m	5€∫Œ∏F•‡ã⁄·ßüjŒ`“ƒ˜¡ﬁsyU‡p¥ÔÍÃ«˛vâNf
+ià-Ì√F¢*‰å‘úWF-Xb’ ®˙~¯¬ŸajÀ5]†ì£≤e®/ÌÔòÁ¸~∫HÙ™°q¸ìØÍßNsài’B¿˘ÑíÖOÀT≥=:¯›)ey Cûñ∏áXñ!Ô—ë{ £Ç&0Ç"0Uˇ0ˇ 0Uˇ0)U%"0 ++$
++ÉË^0U9=G‹óèØà{MsÕÂÓ§•*0U 00
++ÉË^0U#0Ä¸*Ju:Ä˙ôcìsWÏæì∞}√{0x+l0j0$+0Ühttp://ocsp-c2pa.ssl.com0B+0Ü6http://crt-c2pa.ssl.com/SSL.com-C2PA-Root-2025-RSA.cer0	*ÜHÜ˜ Ç Œ6˙>Ôñ6-éØUfˇ{+ kVıÀ≠Ω*Å≠•¶–M£>ì‰ìi’‰å®nÊ7T‚%úÏef(<3=¢ö¢ªÕgdJÁæt!°n√´&ƒ;,⁄Uπ˝GN‡çxõ7Éƒt;≈GaÔmAr§€]CS…ñNÂ‡:ﬂ®›.—ØXó÷ÁÙ_r#<kœΩ9´åì®èßvY>·íı˜Ÿ˚Fb´nn‘àF†≥/*j_•N⁄¯‘¸ÃŸ£<©wE
+¡˘òπ9ÀÃ°q¿*Çq”‰ˆ%‚Q!m÷ﬂ‰SçoJ}é^¿∫’wy!ÅzŒÌ˜õé∂≤äBVùèkA*˛kúãÓ£(œ_ÛÈ–d÷Ó¬âKÎíœıØ¬'M∏ë°7%ôÊ˝Ä‹Ùº«7{æ¥-gX/Á√≥ãqÂDz0∂•≤u>[#~;”T¶:π«Ã3’j5zÅv/˛W⁄i¯>?ÔTèã{F√cû˙Ìƒ/pÑ+ˆVÇÙßÀ$◊l^${:Ω©X;i≥úè“ptˇãn&ª√´E«SñúGµ∆F´^ı¸àãh£5Â|jïeµ´Îπˇ∫∏‡õJG≤ŒÏ/â}ÓØúMƒ…Œı2=è˜&4˛"ãzÌ˘^^g_Q[€$V˚—Y°∑ﬁöf	∂—Ü.˙}~ïyõDf|6Öˆı£gsigTst2°itstTokensÅ°cvalYã0Çá	*ÜHÜ˜†Çx0Çt10	`ÜHe 0Åá*ÜHÜ˜	†xv0t
++Éø0010	`ÜHe  Ë1íø›*UÙp2ﬁ??v_2˚ÿ–ŸÓ#|ÚîHE¯éÓ	 „X¥"J«∞ê20261024063000.440626Z0ÄHÄT¬·mÛÖ†Çf0Çˆ0Ç^†a€F(2äåçJ∑ø˛`„l?q∑0	*ÜHÜ˜ 0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CA0260408174626Z370709174626Z0u10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Leaf0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ Í ≈≠î˝˝'ü«xßa ˇ)a*˚°àÕ_®¢óùâ/ãë»º∞ñê=UÇ¡ñé6j≠âiËê€,D2É®
+ÕwÂ5ËÓ®d[˛∏‡éùÁ °(√5›ß7È"˜	Móö¥Ñs¿.|©PG(†¥i∞á)zY˛5B˘ŸiRJ 7ÚhÃÒ-∑Çñ KF\=§Ü∏KEf8¢NM' ï∫uÃNájüt√ $_ƒ~\Æ˛ÛïÌ ëﬂ<ıÜõ*^÷–›…˙»M√…ÑZI,‰8s`R∏LÓ∆Û∑∂ÿ›j©Œ ∫]÷ƒ\5dÚ#S?bée]p+‘…k	ÅERËWÌZF]⁄]vú%yhÉQ§òÑuëròUˇÿ„Cb±Ìig'Aº≈èÚj+ÉIË·-4ª9ØgΩ¥ï»≤ΩEgÕràî_UK,≠ØÌ•Ù$Øw>ÉädQèëå9ñK∞=Æ˙ô°>å=æ6°.ıcµ £x0v0Uˇ0 0Uˇ¿0U%ˇ0
++0U§'TÇ¢äÄ{=≈ÜÕ?pŸ¬ÉôQx0U#0ÄÚ∞«T=#CÖ‹ s–rÄ=∏®0	*ÜHÜ˜ ÇÅ  ˚$OA¿¿ºò≤2 ç ôH5OƒFV~ß>?∂•#˘*H>‡QùE@x¡ªÉNìP…õ'ñhﬂMŒÚˆ“y´ÔÍ¡⁄?ıòYÊpÕâÙÓGã™ÀÏˇå~·FÿëÊú∏‰4Fˇa“x¯}89„RÌ_fËs¿ r;‰®´éÜ*£7!˘;ﬂ{\TÿL«j*KœCt`Äs£…—wØá©˝µ±Ñjnøà*Œö°ö´¢ûÇH7≈cQó€R|og…iB’œı˚≠^ãê‚‡y<.Éjû•Ë%AèÖÌ‰¡†:ç˛ùRPÔáﬁ·dÕU˘! ﬂ∂)Ôü'n—∫4F´J"OÁbw›E#›a-¬1)èƒπ~y´¥W‘¡Ïœ·\{eI∞ÎM´§«'@N¶¥µèœ|√¥Cßv”^0cÓ®Æ5(td´Z5„[/:>N
+a÷0MCõˇN.∆!π>:, W0ujédK¢–	—◊†g&Amg¯pv∏%&V˘ë&'√KI0Ç~0Çf†ç ∆≈≈⁄∞ºÒNï•Íº0	*ÜHÜ˜ 0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0 260408174626Z21260409174626Z0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CA0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ âº‘π‚»°æaªﬁ<df~ßæúm”©0&<Ù‡k 9ﬂï4Ì©¢eH€7Ü2ÉéÃ
+J†¿Û4l†¿òÕ+ü•ÙÀ|Ÿ&ﬁ~…M¢Ôc[ëÊˆY®“˙N˘Ÿ8+ZÕ`ZòÅò®◊S∆„÷.H¨CW	ÈîÚG˘lEä`∑˜Æ/^¢5NÖ8Öiü4ù–MÿC=Õ4m¸cì¸”pªJËvËjNfI†Ì¸¯æÔö∑®w¨Ô∑8Ãπ‘*3ƒv÷@wÀ˛«]-@”ﬁã<¿÷@AôÀî?,} kR¸û P∑	GE·#U˙±OoTòïÙ}∫¯h·"z‹äëCã∂.C±b†æ $é.Ôø§—MË∏?1œ&=≈ PÍÚŸ$ dÌ’sû.px™ﬁV<˘‘Ä¢Ë≠Øˆ˚®£\Àh´D€0wÚƒ4tkUm∆á˚Ú2<ûqE˜ÏP˚˛÷1&ª–ƒMa‚B€Ø√+n_+Ê‚∞Ôç\DÕ¿s}è¢ÈΩmÇº%eÑ0iÌ £{0y0Uˇ0ˇ 0Uˇ0U%0
++0UÚ∞«T=#CÖ‹ s–rÄ=∏®0U#0ÄX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0	*ÜHÜ˜ Ç íÏ7\ﬁlÎd⁄Æ°	0rÆ‹rı;ºz=÷∆·/ˆÉ3}ËW@NLô™k‘ôŸã€k÷L¯ –Y3”°†8\#àD$˚á·ˆì'º°ÌL_g]ˇ5´1“Ï{‘@C7O¬Ñú∫d»∞¢~ö6¯·–Ç≥PC≤‡UΩÄî»YRNJtﬁ]«EXõ∑˙0™;‹Gº’.,π8c,yZ∑›U≠=BﬂàœÒh˛s ‘Z∑ﬁ$óë¿Ág˛‹¶
+Û•F≥QœçØ_„»∏@∆Ω„˘÷Kq–d]Âd¬K¿^w—=«[ûœ{˝îîÁKQ⁄˚dÙ´5îÒˆæ~+›≤ö=P›P√ñdém´sü(;w–óÌoEO±3._FÎÉ∂©aº◊ÇÆ¯Äo¬„i0Êm|:Dí+ò-Ø‹4¡æ•*HÁá»ﬁ8µ3 „ÑPpÒ≤KﬁçOˆë‹_Ö˙ÒÊ—◊ ßÓ¥üˆ!x)Å„pXwÜ§:KóÉFË⁄¬jv…©À!Eæe±†Ü.ÄºYKMõCm¥◊Ñ‡¸’»aêCéjù√Ò!<Ñ]˛;÷ÿ#9E_q˙2˝†ÄïDµO Â√t˝‚NárÜÙQáΩ‘µ+5lí§;kjù∫˝¿;úv¬’9I⁄„î>Pj◊L‚âaùÔÎœ≈√@npz80ÇÊ0ÇŒ†P;lâå$3,è˜Oé˚}ÇÏ0	*ÜHÜ˜ 0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0 260408174625Z21260409174625Z0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ˆíÈ“∫≠û·¨u®Vÿ™±≥jí_ñyıí∑-$¯ø¿Ø`æ¡öÕyö‹lö˛6ö¡ò§?‰,ù∫••Ps≥
+¬˘ÛƒI/xΩ“ÏºÁ?Ùõ—Ú†a¢,â% Q˘%ú“∆/ÙâƒA˛&”m5ÕÏª5`@®ÖQæˆÓêòÒ*ÿùzkjŸ.ŸcÛÂ\)≈Ü"¡ähÕÎ8û©Pñ[#C˚8ˇB|;:°Q/%…H‹1ˇPrÓ|°wÕoÅaÛ?ønË“±¶6‰k2˚˛w®^õ\››1êLéeˇÅÀAŒ(1S CŒHn}÷d≥)‰¥.:∑TZrVWÛ®j}ÔÊa›e»H	Iô2t
+¢Ã›ì S¨#ΩÇÖ ±ÔæÌ°w Ó:F3¢ûÏØÈ1f¥fo≤âì†~ï!ŒA¯^éÈÕπ¿’3]x––'1œP0rs⁄j¬¿ìœ≠‹dáˆ˚Nàvı>Ôˇí,ôw.ˆ‹ò∂ù	:˝Ù	«è_ZÈ~H	+µäÉÚ[<,Øë¢ùA∑Rh—ø∞¿⁄O`ΩÓ)™Ìáçq\(åçà£%cEÿ¸{aèlFT;\…∞ÇØÉ»±#?ü[Ó¢◊Tµ*SÆªÖ€¶˙óûÏÑârÛz@…∂ÖXG[Ò$a9¢Lﬁÿ∆®"Úûø[L,À £f0d0Uˇ0ˇ0Uˇ0UX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0U#0ÄX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0	*ÜHÜ˜ Ç X¯ÅëòÚla˛»Ü÷[Ñ¶÷æ∏¶]]IÀ∏°)Õ-ù∏X˘Ñâ=<¯o’j¥*¢UígÅô^µT˚öFÄ„Q S¿¡àWﬁÔÇU~„Ù}Î&¸Éˇ!®¡¨ﬁ€ì´Õ–0v:ìùŒ™g9.Ätﬂm~v/ÈÍPAã8=lÂ‡>Ó/€dT6^æbE∂—!¥Ä<åÎ⁄ú÷J©’Te[k—X~¿IáÎÎK_í;î◊öÜˆ°YŒG8¨√∞td—¿R;°±{(k·ió¯(;'ˇÆ§û˜eÀ†ÙÍπΩîŒD‚ò±
+HhÓU©!•`è˛ ÷}—{Ü úÛ®x–∆⁄@.»Å\b®*¡˚VÁyéØÏÂ€”p˛FÃc®dÒ<ÈØ•dº^øÖ-∞Œ„π”§◊RªpãÜù˚.ø
+ˆ“U+#B+C\Ï°Ça?œqÌ∞˜óÈ‰À¬<¸¨w∑∂‹ ¡LÈâ≤≤/√~ídúµÑﬁÃñ˝â∞KµC}“È≠Ü˝Ÿ-üΩ Ó¿¥GV#|HëNgâ {b¡…^UÒˆ∆Q#WoÔáæ Fyæî±» (ùïäà&UfRÔŸK∫®ZÈ¬,≠ü√\BÛ°ı'dyqå
+Zû˝π˘Eyp·jµ7ñéX˝EøT%åÉ=Ÿ&3#–Xw¶∏1Çh0Çd0Åì0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CAa€F(2äåçJ∑ø˛`„l?q∑0	`ÜHe †Ç%0	*ÜHÜ˜	1*ÜHÜ˜	0/	*ÜHÜ˜	1" h\ á…hßå1t,tîd\∞bät¬ò≈`ŸÃÇÒô0Å’*ÜHÜ˜	/1Å≈0Å¬0Åø0Åº ΩOπ≤êLÅ6gànÔA·m˛Ÿ"ùø[íJ–¢ƒ`F"z0Åó0§}0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CAa€F(2äåçJ∑ø˛`„l?q∑0	*ÜHÜ˜ ÇÄïÛH¢õƒ€ë…∂∑∫.√]^æ˙7˛)ÁAÁQŒò#∫ zZäIﬁ6Î·^v±Q- ê∫ùiWÅQÍ¸s©:ú&¬~≠Æ
+%1õÒ}gÂ€Q	Ò‘{¨J⁄:SÌë„‡•0°_cô∂DöûóËô_D√°b9¯´¸∏S˙eSãÌz‘L]2;i£ %îQÍÖ'yMîEüµúÂùedıtáÓl∂Ò·ij+$ÍóÎMvø`M⁄û®øÏÄI)v/Wò‡õÿißô7h,v+Ì~Ùí„†‘ãà¥F„¬ó≥:ÁÀÏ’π€«ºÿ8ërçÀˇ”úóΩé´üıÎCh§]!Nﬂé´l≈&Ö+Æ®smG?iÎ≤ú%RŸ\ûjiÃ˙›∂äÅ≠4T∑Æ–2Ï˝µ⁄[ãù|Ò3‚·‰ÜàI1To*TìhlReÎ:≈ó≤=*h¯õìÖ>ÍøQ—Öês˙ˆg¥X±¯π‰¿n§œ‡v£¸ﬂÓ^ã%erVals°hocspValsÅY◊0Ç”
+ †ÇÃ0Ç»	+0Çπ0Çµ0ÅÈ¢=™™xé˙ˆL˙^j—@MÂTÚÆ20261023220756Z0Åò0Åï0I0	+ ﬂÇ7S^Sÿ3±‡=$5ÒuÊ·
+9=G‹óèØà{MsÕÂÓ§•*•¸ÈpåÚÄ1ÓDdsÄ 20261023220756Z†20261030220755Z°"0 0	+020161025220756Z°#0!0	+0@¨≠∏Äè˘—	2q|0	*ÜHÜ˜ ÇÅ Q|≥;˙ÃoCxÊ’Lˆ‡4`çcÓ:≤;…5è"≥@≈∫¢_∆ç¬˘O9'‡JQ⁄8_§ÃÁÖ/'ò˜Ë ¿<te≥ÜÁÎœ"Œƒ!j$¿›˘d˜œı	ünPs≠å|£Q—yKRÅàLÙ(ö°'√[a)Ò2π´á}ÑögúeoãFªÕ,"`€œntÓ∆Åà7ñ5L{EféøÑÛÎœ¥◊,ëª”Ò®‘H‹eÚ∆u¶∂DémÀ∞øJÍÇO Èa\∑5¿Âß¨UyUzŒ¨‡zJ qV–ól–>‡Æ›≤5ÛÃBÜÏCQEB¶`vŸkÛøeˆGHŒ`ÌíE%âﬂ9∞è~N+£ê;‘+PﬂvÔtÔ^Ñn5?ü"W∏ÙÇ∏≠)f∂2«G6{”!pr*Uø∆ìÆM⁄H∆¸pˇvD≤»îB
+H⁄´ß˘∑ÅxxvR}acœ;∆˘õázu"º´¿ãh÷øHÒ^G‰õj9\3‡N˝í∞ï˙†Ç10Ç-0Ç)0Ç†ZJ≤?–(∆˛K≥?n=„'∫0	*ÜHÜ˜ 0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0260102201415Z270102201414Z0M10	UUS10U
+SSL Corp1+0)U"SSL.com C2PA ICA R1 OCSP Responder0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ ¢PìAÊJKﬁõ¶ït&X<ÏR¸ªî2Õ√∆Pﬂ–Ωú∆npã#ó◊åÓÃ|VÓgæ˘ö¿í∞Î∫•3ˇmiêÉ/à-Ì∞K],õπ∏e$cÓ∞$`ç
+Ë¯y∆”a5[åóXü≥å\ÿ‰∆¶–C≥ß”TŸlà˜ß∏ƒÿn˝1(ﬁ	.ê'ısŸw¶’Pö ŸºÀ2≈Fπ¸¢UMÓ†õ¨hj¡?8*zÿ”]∫¥≥ÎùU)ÓÏ“7üÆ≈6©ú∞∑ﬁD*ãËPß Äy{%œŸ9ÚûEõw∫x	†¶N{@é1˝Í"háÄƒÇ!‰OZÚÛà§Kâ*~L$&©†ö…ù|ÓkbÖ"2Ó÷‹+“ﬂ÷F4v†Ç(xéæ*›‰÷j*w€tz5'¶á¡∏:SÅ™ö÷+ìØ„õ∑e“&0J•æ ÒãZ4¶°“Ör8X9ƒÏ>2Ñﬂ7y÷0”7xÊËÕíÈn+nÏ0Î28.©<“-Â £Åá0ÅÑ0Uˇ0 0U#0Ä9=G‹óèØà{MsÕÂÓ§•*0	+0 0U%0
++	0U=™™xé˙ˆL˙^j—@MÂTÚÆ0UˇÄ0	*ÜHÜ˜ Ç ªs¶UÑ£hPÎÒ†l◊…)Ñù>®/Ì
+ª†Î´À¡∏Ü∑0%HmÛ·Ω°M(“+e`D‹∂ç´U?◊›Ö˛ó[$,Ï≠KKÙª	˙û∞‡∞∞˝éDr¥èj›cËÎ≤÷‘«ÒÁãﬂﬂlƒ	¢˝=sX¡()¢k`i0);U¥å©§ê©p>nrƒv0iÇO%¥OUŒÈHœ_ãÕVkﬂ‹ûÜ65é¡7ïs∏Ì∂®DæˆóﬁIºè°>r'–=!|R\P©«‹©˚˜m∞*&†îﬂdÖåß=ä:1të!·ÏJﬂÖhŒa©§k23”hÊ…ø≥¸ˇïÒ◊¬eJlNG˛®`îwhAŒN(D•∆òá®5Úéf™$Ωj¡Æ kﬁt£w&eß•¬(%˝>©ÂIπˇthrGP˚tö"hÖåøÉ úŸ„m¢<\«N•v“ˇ¬™≈Æ¥¸*Bl'®¥÷9ÀôXÀ√±¸6Ë5‘À^…òòŒËÇãÌXa∫aë—©z…>X‡¸îHLtÊœ‘|≥ÚË#KË0hª'Ïπˆ	∂ÌyìÂ
+Çµ«Á.∆Ökì•AY)î∫X”oñMüQ3ë?¿∏Pœµ∫`àÈ7
+Lñü#x⁄¡ é≈ñ>l˙_ 7Vﬂ	!òíy˜¿ø„Œíß´,W=A‘â‡?cpadY&u                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ˆY Sö≤‚∏öΩ¥FÌ&IIÔy÷ÆNÔxCCπOl„πt>cä@+}π
+oÂüœ¢ÃH00J+“∞P¥´•£O¿zã≤ÃX–yÇÌ2Ærx™Ò·˜ûfª)°ÖëmÈƒ¶MxàR›·¨º˝!à˙!€iv0WÉ,F›Û#_êë≤‰1≤†J„iÌ®?Œ’É©ï!ò9 2¶{fX‘z“Éwmç!Uíö#µ»˙∆¿|Í_∆≈€–Nm⁄xúÃ¶∆πêÙø Ç„Xòf§˘ŸÌd◊h:ˆÌ=◊ºF¿é°PXÌ‰S^üìû ı£Lì ÄûA◊Äöu
+endstream
+endobj
+92 0 obj
+<< /AFRelationship /C2PA_Manifest /Desc (Content Credentials) /F (Content Credentials) /EF << /F 91 0 R >> /Subtype (application/c2pa) /Type /Filespec /UF (Content Credentials) >>
+endobj
+xref
+3 1
+0000095257 00001 n 
+91 2
+0000095392 00000 n 
+0000119773 00000 n 
+trailer
+<< /Size 93 /Root 3 1 R /Prev 93358 >>
+startxref
+119969
+%%EOF
